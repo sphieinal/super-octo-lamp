@@ -1,0 +1,383 @@
+configVersion: 0.1.2
+app:
+    httpWeb:
+        enabled: true
+        host:
+            address: '[::]'
+            port: 8080
+        skin: default
+    dnsProxy:
+        host:
+            address: '[::]'
+            port: 3553
+        upstream:
+            address: 127.0.0.1
+            port: 53
+        disableRemap53: false
+        disableFakePTR: false
+        disableDropAAAA: false
+    netfilter:
+        iptables:
+            chainPrefix: MT_
+        ipset:
+            tablePrefix: mt_
+            additionalTTL: 3600
+        disableIPv4: false
+        disableIPv6: false
+        startMarkTableIndex: 1298229097
+    link:
+        - br0
+    showAllInterfaces: false
+    logLevel: info
+groups:
+    - id: 7bd1ca28
+      name: AWG-Go
+      color: '#ffffff'
+      interface: awg0
+      enable: true
+      rules:
+        - id: f5141992
+          name: Meta
+          type: subnet
+          rule: 31.13.24.0/21
+          enable: true
+        - id: ddffc61d
+          name: Meta
+          type: subnet
+          rule: 31.13.64.0/18
+          enable: true
+        - id: 66f7acd2
+          name: Meta
+          type: subnet
+          rule: 45.64.40.0/22
+          enable: true
+        - id: 5255675c
+          name: Meta
+          type: subnet
+          rule: 57.141.0.0/24
+          enable: true
+        - id: 7336d183
+          name: Meta
+          type: subnet
+          rule: 57.141.2.0/23
+          enable: true
+        - id: 182c7311
+          name: Meta
+          type: subnet
+          rule: 57.141.4.0/24
+          enable: true
+        - id: a6c02c17
+          name: Meta
+          type: subnet
+          rule: 57.141.6.0/23
+          enable: true
+        - id: 5564d7b7
+          name: Meta
+          type: subnet
+          rule: 57.141.8.0/24
+          enable: true
+        - id: 5d6d1108
+          name: Meta
+          type: subnet
+          rule: 57.141.10.0/24
+          enable: true
+        - id: 9e026384
+          name: Meta
+          type: subnet
+          rule: 57.141.12.0/24
+          enable: true
+        - id: e9466aa6
+          name: Meta
+          type: subnet
+          rule: 57.144.0.0/14
+          enable: true
+        - id: 11eba720
+          name: Meta
+          type: subnet
+          rule: 66.220.144.0/20
+          enable: true
+        - id: baf6113e
+          name: Meta
+          type: subnet
+          rule: 69.63.176.0/20
+          enable: true
+        - id: 3a307f38
+          name: Meta
+          type: subnet
+          rule: 69.171.224.0/19
+          enable: true
+        - id: c292d5a8
+          name: Meta
+          type: subnet
+          rule: 74.119.76.0/22
+          enable: true
+        - id: ac061944
+          name: Meta
+          type: subnet
+          rule: 102.132.96.0/20
+          enable: true
+        - id: c491cb9b
+          name: Meta
+          type: subnet
+          rule: 102.132.112.0/24
+          enable: true
+        - id: d678b868
+          name: Meta
+          type: subnet
+          rule: 102.132.114.0/23
+          enable: true
+        - id: 270cde90
+          name: Meta
+          type: subnet
+          rule: 102.132.116.0/22
+          enable: true
+        - id: ffebd72e
+          name: Meta
+          type: subnet
+          rule: 102.132.120.0/23
+          enable: true
+        - id: 1d08ea5f
+          name: Meta
+          type: subnet
+          rule: 102.132.123.0/24
+          enable: true
+        - id: 5461853e
+          name: Meta
+          type: subnet
+          rule: 102.132.125.0/24
+          enable: true
+        - id: 670d7176
+          name: Meta
+          type: subnet
+          rule: 102.132.126.0/23
+          enable: true
+        - id: "93127e41"
+          name: Meta
+          type: subnet
+          rule: 102.221.188.0/22
+          enable: true
+        - id: af48c940
+          name: Meta
+          type: subnet
+          rule: 103.4.96.0/22
+          enable: true
+        - id: 7d8f9a5a
+          name: Meta
+          type: subnet
+          rule: 129.134.0.0/17
+          enable: true
+        - id: 46e6ffe7
+          name: Meta
+          type: subnet
+          rule: 129.134.130.0/23
+          enable: true
+        - id: d91de47f
+          name: Meta
+          type: subnet
+          rule: 129.134.132.0/24
+          enable: true
+        - id: 49a91466
+          name: Meta
+          type: subnet
+          rule: 129.134.135.0/24
+          enable: true
+        - id: 24f20682
+          name: Meta
+          type: subnet
+          rule: 129.134.136.0/22
+          enable: true
+        - id: c0129e70
+          name: Meta
+          type: subnet
+          rule: 129.134.140.0/24
+          enable: true
+        - id: 571b6dd2
+          name: Meta
+          type: subnet
+          rule: 129.134.143.0/24
+          enable: true
+        - id: 6c47f9ac
+          name: Meta
+          type: subnet
+          rule: 129.134.144.0/24
+          enable: true
+        - id: "5911e034"
+          name: Meta
+          type: subnet
+          rule: 129.134.147.0/24
+          enable: true
+        - id: d1c6befb
+          name: Meta
+          type: subnet
+          rule: 129.134.148.0/23
+          enable: true
+        - id: 1f86c03d
+          name: Meta
+          type: subnet
+          rule: 129.134.150.0/24
+          enable: true
+        - id: 3f5bf9e1
+          name: Meta
+          type: subnet
+          rule: 129.134.154.0/23
+          enable: true
+        - id: 2cbbcaad
+          name: Meta
+          type: subnet
+          rule: 129.134.156.0/22
+          enable: true
+        - id: 9af90de4
+          name: Meta
+          type: subnet
+          rule: 129.134.160.0/22
+          enable: true
+        - id: f1b26579
+          name: Meta
+          type: subnet
+          rule: 129.134.164.0/23
+          enable: true
+        - id: 370b7ee1
+          name: Meta
+          type: subnet
+          rule: 129.134.168.0/24
+          enable: true
+        - id: 46b79ab4
+          name: Meta
+          type: subnet
+          rule: 129.134.170.0/23
+          enable: true
+        - id: d1326349
+          name: Meta
+          type: subnet
+          rule: 129.134.172.0/22
+          enable: true
+        - id: 9baf5b19
+          name: Meta
+          type: subnet
+          rule: 129.134.176.0/20
+          enable: true
+        - id: 14a1ce3a
+          name: Meta
+          type: subnet
+          rule: 157.240.0.0/17
+          enable: true
+        - id: ceda628b
+          name: Meta
+          type: subnet
+          rule: 157.240.128.0/23
+          enable: true
+        - id: b273cb3f
+          name: Meta
+          type: subnet
+          rule: 157.240.131.0/24
+          enable: true
+        - id: 26ced1a1
+          name: Meta
+          type: subnet
+          rule: 157.240.156.0/22
+          enable: true
+        - id: d261d1df
+          name: Meta
+          type: subnet
+          rule: 157.240.169.0/24
+          enable: true
+        - id: 1c8c4bfc
+          name: Meta
+          type: subnet
+          rule: 157.240.170.0/24
+          enable: true
+        - id: 0bbaf0b4
+          name: Meta
+          type: subnet
+          rule: 157.240.175.0/24
+          enable: true
+        - id: 42ff3a78
+          name: Meta
+          type: subnet
+          rule: 157.240.177.0/24
+          enable: true
+        - id: 52f385e8
+          name: Meta
+          type: subnet
+          rule: 157.240.179.0/24
+          enable: true
+        - id: 42fb0df9
+          name: Meta
+          type: subnet
+          rule: 157.240.181.0/24
+          enable: true
+        - id: b60ce799
+          name: Meta
+          type: subnet
+          rule: 157.240.182.0/23
+          enable: true
+        - id: ba68e6b4
+          name: Meta
+          type: subnet
+          rule: 157.240.184.0/21
+          enable: true
+        - id: 521b68e4
+          name: Meta
+          type: subnet
+          rule: 157.240.192.0/18
+          enable: true
+        - id: 6778846f
+          name: Meta
+          type: subnet
+          rule: 163.70.128.0/17
+          enable: true
+        - id: 780614b9
+          name: Meta
+          type: subnet
+          rule: 163.114.128.0/20
+          enable: true
+        - id: cbbd71b3
+          name: Meta
+          type: subnet
+          rule: 173.252.64.0/18
+          enable: true
+        - id: 4dd0edcf
+          name: Meta
+          type: subnet
+          rule: 179.60.192.0/22
+          enable: true
+        - id: 81921ea5
+          name: Meta
+          type: subnet
+          rule: 185.60.216.0/22
+          enable: true
+        - id: 7842ae06
+          name: Meta
+          type: subnet
+          rule: 185.89.216.0/22
+          enable: true
+        - id: aeae3dd3
+          name: Meta
+          type: subnet
+          rule: 199.201.64.0/22
+          enable: true
+        - id: 4fdc9d95
+          name: Meta
+          type: subnet
+          rule: 204.15.20.0/22
+          enable: true
+        - id: ccf6a776
+          name: ""
+          type: wildcard
+          rule: '*.info'
+          enable: false
+        - id: 9e75deb7
+          name: ""
+          type: wildcard
+          rule: '*.net'
+          enable: false
+        - id: afa35768
+          name: ""
+          type: wildcard
+          rule: '*.org'
+          enable: false
+        - id: da3edefe
+          name: ""
+          type: wildcard
+          rule: '*.com'
+          enable: false
