@@ -36,6 +36,51 @@ groups:
       interface: awg0
       enable: true
       rules:
+        - id: 7f2bf0e5
+          name: Telegram
+          type: subnet
+          rule: 91.108.56.0/22
+          enable: true
+        - id: 3f3868f2
+          name: Telegram
+          type: subnet
+          rule: 91.108.4.0/22
+          enable: true
+        - id: 120a55c3
+          name: Telegram
+          type: subnet
+          rule: 91.108.8.0/22
+          enable: true
+        - id: 1a0e5d2d
+          name: Telegram
+          type: subnet
+          rule: 91.108.16.0/22
+          enable: true
+        - id: 0851104b
+          name: Telegram
+          type: subnet
+          rule: 91.108.12.0/22
+          enable: true
+        - id: e5385bdf
+          name: Telegram
+          type: subnet
+          rule: 149.154.160.0/20
+          enable: true
+        - id: 9d61af09
+          name: Telegram
+          type: subnet
+          rule: 91.105.192.0/23
+          enable: true
+        - id: 008d811e
+          name: Telegram
+          type: subnet
+          rule: 91.108.20.0/22
+          enable: true
+        - id: 7bcd4586
+          name: Telegram
+          type: subnet
+          rule: 185.76.151.0/24
+          enable: true
         - id: f5141992
           name: Meta
           type: subnet
