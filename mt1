@@ -30,6 +30,1305 @@ app:
     showAllInterfaces: false
     logLevel: info
 groups:
+    - id: 3188f29a
+      name: Akamai
+      color: '#ffffff'
+      interface: awg0
+      enable: true
+      rules:
+        - id: 776e365b
+          name: ""
+          type: subnet
+          rule: 23.32.0.0/11
+          enable: true
+        - id: 114895b7
+          name: ""
+          type: subnet
+          rule: 23.192.0.0/11
+          enable: true
+        - id: 72f46c62
+          name: ""
+          type: subnet
+          rule: 2.16.0.0/13
+          enable: true
+        - id: db6206e2
+          name: ""
+          type: subnet
+          rule: 104.64.0.0/10
+          enable: true
+        - id: a2859f34
+          name: ""
+          type: subnet
+          rule: 184.24.0.0/13
+          enable: true
+        - id: b5cf581d
+          name: ""
+          type: subnet
+          rule: 23.0.0.0/12
+          enable: true
+        - id: 30305ed5
+          name: ""
+          type: subnet
+          rule: 95.100.0.0/15
+          enable: true
+        - id: 341d686f
+          name: ""
+          type: subnet
+          rule: 92.122.0.0/15
+          enable: true
+        - id: 890426d0
+          name: ""
+          type: subnet
+          rule: 184.50.0.0/15
+          enable: true
+        - id: f093fcaf
+          name: ""
+          type: subnet
+          rule: 88.221.0.0/16
+          enable: true
+        - id: b9cb5142
+          name: ""
+          type: subnet
+          rule: 23.64.0.0/14
+          enable: true
+        - id: bfb3834c
+          name: ""
+          type: subnet
+          rule: 72.246.0.0/15
+          enable: true
+        - id: 22e4f080
+          name: ""
+          type: subnet
+          rule: 96.16.0.0/15
+          enable: true
+        - id: 10d5da42
+          name: ""
+          type: subnet
+          rule: 96.6.0.0/15
+          enable: true
+        - id: 6fdfa13b
+          name: ""
+          type: subnet
+          rule: 69.192.0.0/16
+          enable: true
+        - id: 3750e4bf
+          name: ""
+          type: subnet
+          rule: 23.72.0.0/13
+          enable: true
+        - id: 4c07b339
+          name: ""
+          type: subnet
+          rule: 173.222.0.0/15
+          enable: true
+        - id: df5fa09f
+          name: ""
+          type: subnet
+          rule: 118.214.0.0/16
+          enable: true
+        - id: f104222d
+          name: ""
+          type: subnet
+          rule: 184.84.0.0/14
+          enable: true
+        - id: 44e4704f
+          name: ""
+          type: namespace
+          rule: ""
+          enable: true
+    - id: eb23299d
+      name: AWS
+      color: '#ffffff'
+      interface: awg0
+      enable: true
+      rules:
+        - id: 2db95cdd
+          name: ""
+          type: subnet
+          rule: 120.52.22.96/27
+          enable: true
+        - id: 2720cce3
+          name: ""
+          type: subnet
+          rule: 23.228.222.0/24
+          enable: true
+        - id: cf0d09d6
+          name: ""
+          type: subnet
+          rule: 205.251.249.0/24
+          enable: true
+        - id: cdd9adc6
+          name: ""
+          type: subnet
+          rule: 180.163.57.128/26
+          enable: true
+        - id: c8d7c135
+          name: ""
+          type: subnet
+          rule: 23.228.220.0/24
+          enable: true
+        - id: dc1cc0fc
+          name: ""
+          type: subnet
+          rule: 204.246.168.0/22
+          enable: true
+        - id: 0607b6c4
+          name: ""
+          type: subnet
+          rule: 111.13.171.128/26
+          enable: true
+        - id: 0e5e3ff7
+          name: ""
+          type: subnet
+          rule: 18.160.0.0/15
+          enable: true
+        - id: f7c714f4
+          name: ""
+          type: subnet
+          rule: 205.251.252.0/23
+          enable: true
+        - id: 978d46d6
+          name: ""
+          type: subnet
+          rule: 54.192.0.0/16
+          enable: true
+        - id: 6058c6b0
+          name: ""
+          type: subnet
+          rule: 204.246.173.0/24
+          enable: true
+        - id: 88048b69
+          name: ""
+          type: subnet
+          rule: 54.230.200.0/21
+          enable: true
+        - id: ef931f38
+          name: ""
+          type: subnet
+          rule: 120.253.240.192/26
+          enable: true
+        - id: 0e108eea
+          name: ""
+          type: subnet
+          rule: 116.129.226.128/26
+          enable: true
+        - id: 2c2ccc1d
+          name: ""
+          type: subnet
+          rule: 130.176.0.0/17
+          enable: true
+        - id: 7d7b5d98
+          name: ""
+          type: subnet
+          rule: 3.173.192.0/18
+          enable: true
+        - id: 50af2788
+          name: ""
+          type: subnet
+          rule: 108.156.0.0/14
+          enable: true
+        - id: cab6120e
+          name: ""
+          type: subnet
+          rule: 99.86.0.0/16
+          enable: true
+        - id: 37d71cf3
+          name: ""
+          type: subnet
+          rule: 13.32.0.0/15
+          enable: true
+        - id: 578593f8
+          name: ""
+          type: subnet
+          rule: 120.253.245.128/26
+          enable: true
+        - id: b1aa24b1
+          name: ""
+          type: subnet
+          rule: 13.224.0.0/14
+          enable: true
+        - id: 5adf2947
+          name: ""
+          type: subnet
+          rule: 70.132.0.0/18
+          enable: true
+        - id: f318e1c2
+          name: ""
+          type: subnet
+          rule: 15.158.0.0/16
+          enable: true
+        - id: 3ba60872
+          name: ""
+          type: subnet
+          rule: 111.13.171.192/26
+          enable: true
+        - id: c02dd4c5
+          name: ""
+          type: subnet
+          rule: 13.249.0.0/16
+          enable: true
+        - id: 6b96de96
+          name: ""
+          type: subnet
+          rule: 18.238.0.0/15
+          enable: true
+        - id: 73a583a5
+          name: ""
+          type: subnet
+          rule: 18.244.0.0/15
+          enable: true
+        - id: 716d28ad
+          name: ""
+          type: subnet
+          rule: 205.251.208.0/20
+          enable: true
+        - id: 9f86505a
+          name: ""
+          type: subnet
+          rule: 3.165.0.0/16
+          enable: true
+        - id: 25ec39d5
+          name: ""
+          type: subnet
+          rule: 3.168.0.0/14
+          enable: true
+        - id: 5a39daf4
+          name: ""
+          type: subnet
+          rule: 65.9.128.0/18
+          enable: true
+        - id: 8dbe83d9
+          name: ""
+          type: subnet
+          rule: 130.176.128.0/18
+          enable: true
+        - id: 8d3d3e68
+          name: ""
+          type: subnet
+          rule: 23.228.221.0/24
+          enable: true
+        - id: a81ece1b
+          name: ""
+          type: subnet
+          rule: 58.254.138.0/25
+          enable: true
+        - id: ef792562
+          name: ""
+          type: subnet
+          rule: 205.251.206.0/23
+          enable: true
+        - id: 4cbeb9c4
+          name: ""
+          type: subnet
+          rule: 54.230.208.0/20
+          enable: true
+        - id: bbd08cab
+          name: ""
+          type: subnet
+          rule: 3.160.0.0/14
+          enable: true
+        - id: c065aa66
+          name: ""
+          type: subnet
+          rule: 116.129.226.0/25
+          enable: true
+        - id: 4f429739
+          name: ""
+          type: subnet
+          rule: 23.91.0.0/19
+          enable: true
+        - id: 188d444a
+          name: ""
+          type: subnet
+          rule: 52.222.128.0/17
+          enable: true
+        - id: 2fb1641b
+          name: ""
+          type: subnet
+          rule: 18.164.0.0/15
+          enable: true
+        - id: b50c282e
+          name: ""
+          type: subnet
+          rule: 111.13.185.32/27
+          enable: true
+        - id: 338e685a
+          name: ""
+          type: subnet
+          rule: 64.252.128.0/18
+          enable: true
+        - id: "97513793"
+          name: ""
+          type: subnet
+          rule: 205.251.254.0/24
+          enable: true
+        - id: f7981d96
+          name: ""
+          type: subnet
+          rule: 3.166.0.0/15
+          enable: true
+        - id: 1d413c84
+          name: ""
+          type: subnet
+          rule: 54.230.224.0/19
+          enable: true
+        - id: aa424463
+          name: ""
+          type: subnet
+          rule: 71.152.0.0/17
+          enable: true
+        - id: 2818dd0b
+          name: ""
+          type: subnet
+          rule: 216.137.32.0/19
+          enable: true
+        - id: c6275fe8
+          name: ""
+          type: subnet
+          rule: 204.246.172.0/24
+          enable: true
+        - id: 07ba365e
+          name: ""
+          type: subnet
+          rule: 205.251.202.0/23
+          enable: true
+        - id: 21cbb738
+          name: ""
+          type: subnet
+          rule: 18.172.0.0/15
+          enable: true
+        - id: 2478c019
+          name: ""
+          type: subnet
+          rule: 120.52.39.128/27
+          enable: true
+        - id: d94f2c4f
+          name: ""
+          type: subnet
+          rule: 118.193.97.64/26
+          enable: true
+        - id: 53d451a2
+          name: ""
+          type: subnet
+          rule: 3.164.64.0/18
+          enable: true
+        - id: 009a6975
+          name: ""
+          type: subnet
+          rule: 18.154.0.0/15
+          enable: true
+        - id: f1a5b745
+          name: ""
+          type: subnet
+          rule: 3.173.0.0/17
+          enable: true
+        - id: 1ee99147
+          name: ""
+          type: subnet
+          rule: 54.240.128.0/18
+          enable: true
+        - id: 88c44fdc
+          name: ""
+          type: subnet
+          rule: 205.251.250.0/23
+          enable: true
+        - id: 50fa6c9d
+          name: ""
+          type: subnet
+          rule: 180.163.57.0/25
+          enable: true
+        - id: bd03e7aa
+          name: ""
+          type: subnet
+          rule: 52.46.0.0/18
+          enable: true
+        - id: bc0519d3
+          name: ""
+          type: subnet
+          rule: 3.174.0.0/15
+          enable: true
+        - id: 1ef4d5a1
+          name: ""
+          type: subnet
+          rule: 52.82.128.0/19
+          enable: true
+        - id: cb66a041
+          name: ""
+          type: subnet
+          rule: 54.230.0.0/17
+          enable: true
+        - id: 90fa2f45
+          name: ""
+          type: subnet
+          rule: 54.230.128.0/18
+          enable: true
+        - id: 20416c88
+          name: ""
+          type: subnet
+          rule: 54.239.128.0/18
+          enable: true
+        - id: 2abdbe86
+          name: ""
+          type: subnet
+          rule: 130.176.224.0/20
+          enable: true
+        - id: f3e4fada
+          name: ""
+          type: subnet
+          rule: 36.103.232.128/26
+          enable: true
+        - id: ac81ecd7
+          name: ""
+          type: subnet
+          rule: 52.84.0.0/15
+          enable: true
+        - id: 3fa5c773
+          name: ""
+          type: subnet
+          rule: 143.204.0.0/16
+          enable: true
+        - id: ea5b9bd2
+          name: ""
+          type: subnet
+          rule: 144.220.0.0/16
+          enable: true
+        - id: 9cf49f43
+          name: ""
+          type: subnet
+          rule: 120.52.153.192/26
+          enable: true
+        - id: 487ddf83
+          name: ""
+          type: subnet
+          rule: 119.147.182.0/25
+          enable: true
+        - id: d41b3052
+          name: ""
+          type: subnet
+          rule: 120.232.236.0/25
+          enable: true
+        - id: 605433ec
+          name: ""
+          type: subnet
+          rule: 111.13.185.64/27
+          enable: true
+        - id: b37f3fd5
+          name: ""
+          type: subnet
+          rule: 3.164.0.0/18
+          enable: true
+        - id: 586d032c
+          name: ""
+          type: subnet
+          rule: 3.172.64.0/18
+          enable: true
+        - id: 9e0b2b51
+          name: ""
+          type: subnet
+          rule: 54.182.0.0/16
+          enable: true
+        - id: 8cfe071a
+          name: ""
+          type: subnet
+          rule: 58.254.138.128/26
+          enable: true
+        - id: 31a92b29
+          name: ""
+          type: subnet
+          rule: 120.253.245.192/27
+          enable: true
+        - id: a89fd9fe
+          name: ""
+          type: subnet
+          rule: 54.239.192.0/19
+          enable: true
+        - id: b5ade59e
+          name: ""
+          type: subnet
+          rule: 18.68.0.0/16
+          enable: true
+        - id: 7cd38729
+          name: ""
+          type: subnet
+          rule: 18.64.0.0/14
+          enable: true
+        - id: 1fc26d03
+          name: ""
+          type: subnet
+          rule: 120.52.12.64/26
+          enable: true
+        - id: 1845d4a6
+          name: ""
+          type: subnet
+          rule: 24.110.32.0/19
+          enable: true
+        - id: 60f990f4
+          name: ""
+          type: subnet
+          rule: 99.84.0.0/16
+          enable: true
+        - id: eb298feb
+          name: ""
+          type: subnet
+          rule: 205.251.204.0/23
+          enable: true
+        - id: f72f3f63
+          name: ""
+          type: subnet
+          rule: 130.176.192.0/19
+          enable: true
+        - id: 5be3c7ee
+          name: ""
+          type: subnet
+          rule: 23.228.223.0/24
+          enable: true
+        - id: 3be14a89
+          name: ""
+          type: subnet
+          rule: 52.124.128.0/17
+          enable: true
+        - id: 7fef9e67
+          name: ""
+          type: subnet
+          rule: 204.246.164.0/22
+          enable: true
+        - id: c062dc76
+          name: ""
+          type: subnet
+          rule: 13.35.0.0/16
+          enable: true
+        - id: 2eb1c18d
+          name: ""
+          type: subnet
+          rule: 204.246.174.0/23
+          enable: true
+        - id: bd237bbb
+          name: ""
+          type: subnet
+          rule: 3.164.128.0/17
+          enable: true
+        - id: d1873a68
+          name: ""
+          type: subnet
+          rule: 3.172.0.0/18
+          enable: true
+        - id: fe545ffa
+          name: ""
+          type: subnet
+          rule: 36.103.232.0/25
+          enable: true
+        - id: 5a15f471
+          name: ""
+          type: subnet
+          rule: 119.147.182.128/26
+          enable: true
+        - id: 31f1307d
+          name: ""
+          type: subnet
+          rule: 118.193.97.128/25
+          enable: true
+        - id: f27f7394
+          name: ""
+          type: subnet
+          rule: 120.232.236.128/26
+          enable: true
+        - id: 2fa3d5d0
+          name: ""
+          type: subnet
+          rule: 204.246.176.0/20
+          enable: true
+        - id: fdd1f944
+          name: ""
+          type: subnet
+          rule: 65.8.0.0/16
+          enable: true
+        - id: 2dc686de
+          name: ""
+          type: subnet
+          rule: 65.9.0.0/17
+          enable: true
+        - id: b2e4e45b
+          name: ""
+          type: subnet
+          rule: 108.138.0.0/15
+          enable: true
+        - id: a4644e43
+          name: ""
+          type: subnet
+          rule: 120.253.241.160/27
+          enable: true
+        - id: a16e2bf4
+          name: ""
+          type: subnet
+          rule: 3.173.128.0/18
+          enable: true
+        - id: c88dbe6c
+          name: ""
+          type: subnet
+          rule: 64.252.64.0/18
+          enable: true
+        - id: 40a3d637
+          name: ""
+          type: subnet
+          rule: 13.113.196.64/26
+          enable: true
+        - id: 10780c11
+          name: ""
+          type: subnet
+          rule: 13.113.203.0/24
+          enable: true
+        - id: 44e593b9
+          name: ""
+          type: subnet
+          rule: 52.199.127.192/26
+          enable: true
+        - id: 88b4884e
+          name: ""
+          type: subnet
+          rule: 57.182.253.0/24
+          enable: true
+        - id: ff11cbe2
+          name: ""
+          type: subnet
+          rule: 57.183.42.0/25
+          enable: true
+        - id: f7018b1c
+          name: ""
+          type: subnet
+          rule: 13.124.199.0/24
+          enable: true
+        - id: d66b9da5
+          name: ""
+          type: subnet
+          rule: 3.35.130.128/25
+          enable: true
+        - id: d10c7bd9
+          name: ""
+          type: subnet
+          rule: 52.78.247.128/26
+          enable: true
+        - id: c8d69911
+          name: ""
+          type: subnet
+          rule: 13.203.133.0/26
+          enable: true
+        - id: 65265d44
+          name: ""
+          type: subnet
+          rule: 13.233.177.192/26
+          enable: true
+        - id: 6d478e31
+          name: ""
+          type: subnet
+          rule: 15.207.13.128/25
+          enable: true
+        - id: 3867d927
+          name: ""
+          type: subnet
+          rule: 15.207.213.128/25
+          enable: true
+        - id: "153385e3"
+          name: ""
+          type: subnet
+          rule: 52.66.194.128/26
+          enable: true
+        - id: e3242a4a
+          name: ""
+          type: subnet
+          rule: 13.228.69.0/24
+          enable: true
+        - id: bb124e75
+          name: ""
+          type: subnet
+          rule: 47.129.82.0/24
+          enable: true
+        - id: 2f5edb19
+          name: ""
+          type: subnet
+          rule: 47.129.83.0/24
+          enable: true
+        - id: c54f9be4
+          name: ""
+          type: subnet
+          rule: 47.129.84.0/24
+          enable: true
+        - id: 88c69fb1
+          name: ""
+          type: subnet
+          rule: 52.220.191.0/26
+          enable: true
+        - id: c2c1a099
+          name: ""
+          type: subnet
+          rule: 13.210.67.128/26
+          enable: true
+        - id: fbe80d8f
+          name: ""
+          type: subnet
+          rule: 13.54.63.128/26
+          enable: true
+        - id: 583aa1dc
+          name: ""
+          type: subnet
+          rule: 3.107.43.128/25
+          enable: true
+        - id: 5c53c6b5
+          name: ""
+          type: subnet
+          rule: 3.107.44.0/25
+          enable: true
+        - id: d0d866fe
+          name: ""
+          type: subnet
+          rule: 3.107.44.128/25
+          enable: true
+        - id: 2360a0a9
+          name: ""
+          type: subnet
+          rule: 43.218.56.128/26
+          enable: true
+        - id: b2a89e76
+          name: ""
+          type: subnet
+          rule: 43.218.56.192/26
+          enable: true
+        - id: d7922c81
+          name: ""
+          type: subnet
+          rule: 43.218.56.64/26
+          enable: true
+        - id: 5b09361a
+          name: ""
+          type: subnet
+          rule: 43.218.71.0/26
+          enable: true
+        - id: 5b861c4b
+          name: ""
+          type: subnet
+          rule: 99.79.169.0/24
+          enable: true
+        - id: 96aa7e61
+          name: ""
+          type: subnet
+          rule: 18.192.142.0/23
+          enable: true
+        - id: 3729f7c9
+          name: ""
+          type: subnet
+          rule: 18.199.68.0/22
+          enable: true
+        - id: dd5d0b54
+          name: ""
+          type: subnet
+          rule: 18.199.72.0/22
+          enable: true
+        - id: 4e3714dd
+          name: ""
+          type: subnet
+          rule: 18.199.76.0/22
+          enable: true
+        - id: 0391d1d9
+          name: ""
+          type: subnet
+          rule: 35.158.136.0/24
+          enable: true
+        - id: bf3c9c0c
+          name: ""
+          type: subnet
+          rule: 52.57.254.0/24
+          enable: true
+        - id: 6d63df13
+          name: ""
+          type: subnet
+          rule: 18.200.212.0/23
+          enable: true
+        - id: cf5cfeb7
+          name: ""
+          type: subnet
+          rule: 52.212.248.0/26
+          enable: true
+        - id: 06f4fb9a
+          name: ""
+          type: subnet
+          rule: 13.134.24.0/23
+          enable: true
+        - id: 5d602db3
+          name: ""
+          type: subnet
+          rule: 13.134.94.0/23
+          enable: true
+        - id: 0a243f7b
+          name: ""
+          type: subnet
+          rule: 18.175.65.0/24
+          enable: true
+        - id: 0ecc8785
+          name: ""
+          type: subnet
+          rule: 18.175.66.0/24
+          enable: true
+        - id: a7f93bfc
+          name: ""
+          type: subnet
+          rule: 18.175.67.0/24
+          enable: true
+        - id: be8cc677
+          name: ""
+          type: subnet
+          rule: 3.10.17.128/25
+          enable: true
+        - id: 0ff01d05
+          name: ""
+          type: subnet
+          rule: 3.11.53.0/24
+          enable: true
+        - id: 57ef3fc8
+          name: ""
+          type: subnet
+          rule: 52.56.127.0/25
+          enable: true
+        - id: a6a8544c
+          name: ""
+          type: subnet
+          rule: 15.188.184.0/24
+          enable: true
+        - id: ad443775
+          name: ""
+          type: subnet
+          rule: 51.44.234.0/23
+          enable: true
+        - id: b0c380e5
+          name: ""
+          type: subnet
+          rule: 51.44.236.0/23
+          enable: true
+        - id: e2744654
+          name: ""
+          type: subnet
+          rule: 51.44.238.0/23
+          enable: true
+        - id: 1203eab3
+          name: ""
+          type: subnet
+          rule: 52.47.139.0/24
+          enable: true
+        - id: b8e06e0e
+          name: ""
+          type: subnet
+          rule: 3.29.40.128/26
+          enable: true
+        - id: 162c8555
+          name: ""
+          type: subnet
+          rule: 3.29.40.192/26
+          enable: true
+        - id: aa8dd4ed
+          name: ""
+          type: subnet
+          rule: 3.29.40.64/26
+          enable: true
+        - id: ae4b437e
+          name: ""
+          type: subnet
+          rule: 3.29.57.0/26
+          enable: true
+        - id: 52dbe232
+          name: ""
+          type: subnet
+          rule: 18.229.220.192/26
+          enable: true
+        - id: f90eb1db
+          name: ""
+          type: subnet
+          rule: 18.230.229.0/24
+          enable: true
+        - id: c6fa2240
+          name: ""
+          type: subnet
+          rule: 18.230.230.0/25
+          enable: true
+        - id: 18aaa2c9
+          name: ""
+          type: subnet
+          rule: 54.233.255.128/26
+          enable: true
+        - id: a2716383
+          name: ""
+          type: subnet
+          rule: 56.125.46.0/24
+          enable: true
+        - id: 518cc96b
+          name: ""
+          type: subnet
+          rule: 56.125.47.0/32
+          enable: true
+        - id: f9e8945a
+          name: ""
+          type: subnet
+          rule: 56.125.48.0/24
+          enable: true
+        - id: aac2ca7b
+          name: ""
+          type: subnet
+          rule: 3.231.2.0/25
+          enable: true
+        - id: 6fd2f42c
+          name: ""
+          type: subnet
+          rule: 3.234.232.224/27
+          enable: true
+        - id: f68bc4cc
+          name: ""
+          type: subnet
+          rule: 3.236.169.192/26
+          enable: true
+        - id: 7e5492a6
+          name: ""
+          type: subnet
+          rule: 3.236.48.0/23
+          enable: true
+        - id: "01705677"
+          name: ""
+          type: subnet
+          rule: 34.195.252.0/24
+          enable: true
+        - id: d5af5e62
+          name: ""
+          type: subnet
+          rule: 34.226.14.0/24
+          enable: true
+        - id: 4dd0e9f2
+          name: ""
+          type: subnet
+          rule: 44.220.194.0/23
+          enable: true
+        - id: 698cd6e1
+          name: ""
+          type: subnet
+          rule: 44.220.196.0/23
+          enable: true
+        - id: 1149e5a8
+          name: ""
+          type: subnet
+          rule: 44.220.198.0/23
+          enable: true
+        - id: d80af879
+          name: ""
+          type: subnet
+          rule: 44.220.200.0/23
+          enable: true
+        - id: 5451b3aa
+          name: ""
+          type: subnet
+          rule: 44.220.202.0/23
+          enable: true
+        - id: ced9c1dd
+          name: ""
+          type: subnet
+          rule: 44.222.66.0/24
+          enable: true
+        - id: 735a8711
+          name: ""
+          type: subnet
+          rule: 13.59.250.0/26
+          enable: true
+        - id: baf7c197
+          name: ""
+          type: subnet
+          rule: 18.216.170.128/25
+          enable: true
+        - id: fd218b50
+          name: ""
+          type: subnet
+          rule: 3.128.93.0/24
+          enable: true
+        - id: 39537b73
+          name: ""
+          type: subnet
+          rule: 3.134.215.0/24
+          enable: true
+        - id: e0b37b4f
+          name: ""
+          type: subnet
+          rule: 3.146.232.0/22
+          enable: true
+        - id: c1f67374
+          name: ""
+          type: subnet
+          rule: 3.147.164.0/22
+          enable: true
+        - id: 8c1f0bac
+          name: ""
+          type: subnet
+          rule: 3.147.244.0/22
+          enable: true
+        - id: 87d0869a
+          name: ""
+          type: subnet
+          rule: 52.15.127.128/26
+          enable: true
+        - id: 16ac470c
+          name: ""
+          type: subnet
+          rule: 3.101.158.0/23
+          enable: true
+        - id: 5ff3edf9
+          name: ""
+          type: subnet
+          rule: 52.52.191.128/26
+          enable: true
+        - id: 2bafdaf9
+          name: ""
+          type: subnet
+          rule: 34.216.51.0/25
+          enable: true
+        - id: d7d19575
+          name: ""
+          type: subnet
+          rule: 34.223.12.224/27
+          enable: true
+        - id: ff39df8f
+          name: ""
+          type: subnet
+          rule: 34.223.80.192/26
+          enable: true
+        - id: "79081126"
+          name: ""
+          type: subnet
+          rule: 35.162.63.192/26
+          enable: true
+        - id: 91d17c31
+          name: ""
+          type: subnet
+          rule: 35.167.191.128/26
+          enable: true
+        - id: 2deccf44
+          name: ""
+          type: subnet
+          rule: 35.93.168.0/23
+          enable: true
+        - id: cbd4e067
+          name: ""
+          type: subnet
+          rule: 35.93.170.0/23
+          enable: true
+        - id: 9e66455d
+          name: ""
+          type: subnet
+          rule: 35.93.172.0/23
+          enable: true
+        - id: 8d162b68
+          name: ""
+          type: subnet
+          rule: 44.227.178.0/24
+          enable: true
+        - id: 2a49051c
+          name: ""
+          type: subnet
+          rule: 44.234.108.128/25
+          enable: true
+        - id: 2730a345
+          name: ""
+          type: subnet
+          rule: 44.234.90.252/30
+          enable: true
+        - id: bd125a47
+          name: ""
+          type: namespace
+          rule: ""
+          enable: true
+    - id: ba3970fd
+      name: Cloudflare
+      color: '#ffffff'
+      interface: awg0
+      enable: true
+      rules:
+        - id: c365ddd1
+          name: ""
+          type: subnet
+          rule: 173.245.48.0/20
+          enable: true
+        - id: eccf42a9
+          name: ""
+          type: subnet
+          rule: 103.21.244.0/22
+          enable: true
+        - id: 3b2dd381
+          name: ""
+          type: subnet
+          rule: 103.22.200.0/22
+          enable: true
+        - id: 190fb2b2
+          name: ""
+          type: subnet
+          rule: 103.31.4.0/22
+          enable: true
+        - id: 25ea1a54
+          name: ""
+          type: subnet
+          rule: 141.101.64.0/18
+          enable: true
+        - id: 3b6b4936
+          name: ""
+          type: subnet
+          rule: 108.162.192.0/18
+          enable: true
+        - id: 9152ea9c
+          name: ""
+          type: subnet
+          rule: 190.93.240.0/20
+          enable: true
+        - id: 913f0546
+          name: ""
+          type: subnet
+          rule: 188.114.96.0/20
+          enable: true
+        - id: 88345edd
+          name: ""
+          type: subnet
+          rule: 197.234.240.0/22
+          enable: true
+        - id: 5d61d863
+          name: ""
+          type: subnet
+          rule: 198.41.128.0/17
+          enable: true
+        - id: cf4d7e62
+          name: ""
+          type: subnet
+          rule: 162.158.0.0/15
+          enable: true
+        - id: 4ee8b9d9
+          name: ""
+          type: subnet
+          rule: 104.16.0.0/13
+          enable: true
+        - id: 88549d53
+          name: ""
+          type: subnet
+          rule: 104.24.0.0/14
+          enable: true
+        - id: 0c320315
+          name: ""
+          type: subnet
+          rule: 172.64.0.0/13
+          enable: true
+        - id: e8c1ec22
+          name: ""
+          type: subnet
+          rule: 131.0.72.0/22
+          enable: true
+        - id: 729e35a1
+          name: ""
+          type: namespace
+          rule: ""
+          enable: true
+    - id: 10db9658
+      name: Fastly
+      color: '#ffffff'
+      interface: awg0
+      enable: true
+      rules:
+        - id: c49c419e
+          name: ""
+          type: subnet
+          rule: 23.235.32.0/20
+          enable: true
+        - id: 3dff0cf8
+          name: ""
+          type: subnet
+          rule: 43.249.72.0/22
+          enable: true
+        - id: 034134af
+          name: ""
+          type: subnet
+          rule: 103.244.50.0/24
+          enable: true
+        - id: 07d3af44
+          name: ""
+          type: subnet
+          rule: 103.245.222.0/23
+          enable: true
+        - id: 6f3d3c4a
+          name: ""
+          type: subnet
+          rule: 103.245.224.0/24
+          enable: true
+        - id: 588720cc
+          name: ""
+          type: subnet
+          rule: 104.156.80.0/20
+          enable: true
+        - id: 5fa6a8b2
+          name: ""
+          type: subnet
+          rule: 140.248.64.0/18
+          enable: true
+        - id: 47eb2a43
+          name: ""
+          type: subnet
+          rule: 140.248.128.0/17
+          enable: true
+        - id: d0d15c11
+          name: ""
+          type: subnet
+          rule: 146.75.0.0/17
+          enable: true
+        - id: 11e9796a
+          name: ""
+          type: subnet
+          rule: 151.101.0.0/16
+          enable: true
+        - id: 62b0142e
+          name: ""
+          type: subnet
+          rule: 157.52.64.0/18
+          enable: true
+        - id: f273a77d
+          name: ""
+          type: subnet
+          rule: 167.82.0.0/17
+          enable: true
+        - id: 41962e8e
+          name: ""
+          type: subnet
+          rule: 167.82.128.0/20
+          enable: true
+        - id: a4ed089e
+          name: ""
+          type: subnet
+          rule: 167.82.160.0/20
+          enable: true
+        - id: e75049c5
+          name: ""
+          type: subnet
+          rule: 167.82.224.0/20
+          enable: true
+        - id: c373a022
+          name: ""
+          type: subnet
+          rule: 172.111.64.0/18
+          enable: true
+        - id: 58c6ce5d
+          name: ""
+          type: subnet
+          rule: 185.31.16.0/22
+          enable: true
+        - id: bf3f7e27
+          name: ""
+          type: subnet
+          rule: 199.27.72.0/21
+          enable: true
+        - id: 4e2faba9
+          name: ""
+          type: subnet
+          rule: 199.232.0.0/16
+          enable: true
+        - id: 1410c02b
+          name: ""
+          type: namespace
+          rule: ""
+          enable: true
     - id: 0d0215b7
       name: Google
       color: '#ffffff'
@@ -2833,7 +4132,7 @@ groups:
       name: Viber
       color: '#ffffff'
       interface: awg0
-      enable: false
+      enable: true
       rules:
         - id: 11c75f51
           name: ""
@@ -3439,7 +4738,7 @@ groups:
       name: Signal
       color: '#ffffff'
       interface: awg0
-      enable: false
+      enable: true
       rules:
         - id: a4db693d
           name: ""
@@ -9045,7 +10344,7 @@ groups:
       name: Discord
       color: '#ffffff'
       interface: awg0
-      enable: false
+      enable: true
       rules:
         - id: 656d2eb6
           name: ""
@@ -9456,7 +10755,7 @@ groups:
       name: Zello
       color: '#ffffff'
       interface: awg0
-      enable: false
+      enable: true
       rules:
         - id: 590a7b95
           name: ""
@@ -9737,7 +11036,7 @@ groups:
       name: News
       color: '#ffffff'
       interface: awg0
-      enable: false
+      enable: true
       rules:
         - id: de1dbeaa
           name: ""
@@ -11633,7 +12932,7 @@ groups:
       name: P2P
       color: '#ffffff'
       interface: awg0
-      enable: false
+      enable: true
       rules:
         - id: 8521e4da
           name: ""
@@ -11769,7 +13068,7 @@ groups:
       name: Video
       color: '#ffffff'
       interface: awg0
-      enable: false
+      enable: true
       rules:
         - id: 1a42d9d7
           name: ""
@@ -12760,7 +14059,7 @@ groups:
       name: XXX
       color: '#ffffff'
       interface: awg0
-      enable: false
+      enable: true
       rules:
         - id: 78152a4d
           name: ""
