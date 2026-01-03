@@ -331,6 +331,3992 @@ groups:
           type: subnet
           rule: 208.0.0.0/4
           enable: true
+    - id: 9024dba0
+      name: '*.* (domains)'
+      color: '#e40422'
+      interface: awg0
+      enable: false
+      rules:
+        - id: de579d98
+          name: ""
+          type: namespace
+          rule: 10minutemail.com
+          enable: true
+        - id: d9556896
+          name: ""
+          type: namespace
+          rule: 1337x.to
+          enable: true
+        - id: 93b1090c
+          name: ""
+          type: namespace
+          rule: 1e100.net
+          enable: true
+        - id: a5c09adb
+          name: ""
+          type: namespace
+          rule: 37signals.com
+          enable: true
+        - id: 18971a7b
+          name: ""
+          type: namespace
+          rule: 7k.casino
+          enable: true
+        - id: 91e95740
+          name: ""
+          type: namespace
+          rule: a-msedge.net
+          enable: true
+        - id: 42bd4187
+          name: ""
+          type: namespace
+          rule: account-tiktok.com
+          enable: true
+        - id: 4c18f976
+          name: ""
+          type: namespace
+          rule: addlive.io
+          enable: true
+        - id: c61c0f65
+          name: ""
+          type: namespace
+          rule: ads-pixiv.net
+          enable: true
+        - id: 73f8e76a
+          name: ""
+          type: namespace
+          rule: agents.media
+          enable: true
+        - id: e28d95b2
+          name: ""
+          type: namespace
+          rule: agentura.ru
+          enable: true
+        - id: dedf61a9
+          name: ""
+          type: namespace
+          rule: akamai.net
+          enable: true
+        - id: 6bdce5b1
+          name: ""
+          type: namespace
+          rule: akamaized.net
+          enable: true
+        - id: f56e5790
+          name: ""
+          type: namespace
+          rule: amazonaws.com
+          enable: true
+        - id: 4a5beb8b
+          name: ""
+          type: namespace
+          rule: amedia.site
+          enable: true
+        - id: b9c41a2e
+          name: ""
+          type: namespace
+          rule: anidub.com
+          enable: true
+        - id: cac1d596
+          name: ""
+          type: namespace
+          rule: anidub.pro
+          enable: true
+        - id: b518773a
+          name: ""
+          type: namespace
+          rule: anilibria.tv
+          enable: true
+        - id: 1106e942
+          name: ""
+          type: namespace
+          rule: animego.org
+          enable: true
+        - id: b378decb
+          name: ""
+          type: namespace
+          rule: animetop.info
+          enable: true
+        - id: 6d5dc23b
+          name: ""
+          type: namespace
+          rule: animevost.org
+          enable: true
+        - id: 7496d9cc
+          name: ""
+          type: namespace
+          rule: anthropic.com
+          enable: true
+        - id: 53cd2093
+          name: ""
+          type: namespace
+          rule: appcenter.ms
+          enable: true
+        - id: "52874283"
+          name: ""
+          type: namespace
+          rule: arkoselabs.co
+          enable: true
+        - id: "49659302"
+          name: ""
+          type: namespace
+          rule: arkoselabs.com
+          enable: true
+        - id: 849f73c5
+          name: ""
+          type: namespace
+          rule: atomile.com
+          enable: true
+        - id: 35fd9939
+          name: ""
+          type: namespace
+          rule: aufcasino.com
+          enable: true
+        - id: 3d891b85
+          name: ""
+          type: namespace
+          rule: azureedge.net
+          enable: true
+        - id: aacbf9af
+          name: ""
+          type: namespace
+          rule: babook.org
+          enable: true
+        - id: f487c894
+          name: ""
+          type: namespace
+          rule: basecamp.com
+          enable: true
+        - id: 7c605736
+          name: ""
+          type: namespace
+          rule: basecampapi.com
+          enable: true
+        - id: 64d0ac22
+          name: ""
+          type: namespace
+          rule: bato.to
+          enable: true
+        - id: d96e84c2
+          name: ""
+          type: namespace
+          rule: bbc.co.uk
+          enable: true
+        - id: 171da7f9
+          name: ""
+          type: namespace
+          rule: bbc.com
+          enable: true
+        - id: 09f667f7
+          name: ""
+          type: namespace
+          rule: bbci.co.uk
+          enable: true
+        - id: 31df4c87
+          name: ""
+          type: namespace
+          rule: beeg.com
+          enable: true
+        - id: 4e716cdf
+          name: ""
+          type: namespace
+          rule: bellingcat.com
+          enable: true
+        - id: 7c1ef86a
+          name: ""
+          type: namespace
+          rule: bestchange.net
+          enable: true
+        - id: 4a528615
+          name: ""
+          type: namespace
+          rule: bestchange.ru
+          enable: true
+        - id: fc53258b
+          name: ""
+          type: namespace
+          rule: bing.com
+          enable: true
+        - id: 1e99b3cd
+          name: ""
+          type: namespace
+          rule: bingapis.com
+          enable: true
+        - id: 0583df54
+          name: ""
+          type: namespace
+          rule: blox.com
+          enable: true
+        - id: db3da305
+          name: ""
+          type: namespace
+          rule: booktracker.org
+          enable: true
+        - id: ed50064c
+          name: ""
+          type: namespace
+          rule: booktracker.work
+          enable: true
+        - id: f95c2f0a
+          name: ""
+          type: namespace
+          rule: booth.pm
+          enable: true
+        - id: 0a7998fd
+          name: ""
+          type: namespace
+          rule: byspotify.com
+          enable: true
+        - id: cf6a66f2
+          name: ""
+          type: namespace
+          rule: byteimg.com
+          enable: true
+        - id: d6d7b1c6
+          name: ""
+          type: namespace
+          rule: byteoversea.com
+          enable: true
+        - id: "08853841"
+          name: ""
+          type: namespace
+          rule: byteoversea.net
+          enable: true
+        - id: 12b983b3
+          name: ""
+          type: namespace
+          rule: bytetcdn.com
+          enable: true
+        - id: 4b68e63d
+          name: ""
+          type: namespace
+          rule: canva-apps.com
+          enable: true
+        - id: fd1798e8
+          name: ""
+          type: namespace
+          rule: canva.com
+          enable: true
+        - id: 3f002725
+          name: ""
+          type: namespace
+          rule: casinohype.com
+          enable: true
+        - id: 5fa7b0c7
+          name: ""
+          type: namespace
+          rule: cdn-telegram.org
+          enable: true
+        - id: d732683e
+          name: ""
+          type: namespace
+          rule: cdn32.lol
+          enable: true
+        - id: e1239aa3
+          name: ""
+          type: namespace
+          rule: cdninstagram.com
+          enable: true
+        - id: c8f3f11d
+          name: ""
+          type: namespace
+          rule: cdntogo.net
+          enable: true
+        - id: 44be7f19
+          name: ""
+          type: namespace
+          rule: chatgpt.com
+          enable: true
+        - id: f9ab4c21
+          name: ""
+          type: namespace
+          rule: cherta.media
+          enable: true
+        - id: 76e3509b
+          name: ""
+          type: namespace
+          rule: chess.com
+          enable: true
+        - id: 4d6dbe5e
+          name: ""
+          type: namespace
+          rule: chesscomfiles.com
+          enable: true
+        - id: 619397a5
+          name: ""
+          type: namespace
+          rule: claude.ai
+          enable: true
+        - id: 3c7005cd
+          name: ""
+          type: namespace
+          rule: claudeusercontent.com
+          enable: true
+        - id: a837a0c6
+          name: ""
+          type: namespace
+          rule: cloudfront.net
+          enable: true
+        - id: d8c234b6
+          name: ""
+          type: namespace
+          rule: cloudfunctions.net
+          enable: true
+        - id: 49229a75
+          name: ""
+          type: namespace
+          rule: colta.ru
+          enable: true
+        - id: 9927fdf4
+          name: ""
+          type: namespace
+          rule: comments.app
+          enable: true
+        - id: ba15f1a3
+          name: ""
+          type: namespace
+          rule: contest.com
+          enable: true
+        - id: bdd19267
+          name: ""
+          type: namespace
+          rule: crunchyroll.com
+          enable: true
+        - id: dc114f67
+          name: ""
+          type: namespace
+          rule: cryptobosscasino.com
+          enable: true
+        - id: 07aecef5
+          name: ""
+          type: namespace
+          rule: currenttime.tv
+          enable: true
+        - id: c9c4991a
+          name: ""
+          type: namespace
+          rule: daramalive.life
+          enable: true
+        - id: 87c32f58
+          name: ""
+          type: namespace
+          rule: datalore.io
+          enable: true
+        - id: d87237fe
+          name: ""
+          type: namespace
+          rule: deepl.com
+          enable: true
+        - id: ea6096d6
+          name: ""
+          type: namespace
+          rule: deezer.com
+          enable: true
+        - id: e70678ab
+          name: ""
+          type: namespace
+          rule: demand.supply
+          enable: true
+        - id: 0e5ea62e
+          name: ""
+          type: namespace
+          rule: dept.one
+          enable: true
+        - id: 00cbf087
+          name: ""
+          type: namespace
+          rule: deviantart.com
+          enable: true
+        - id: e084ef22
+          name: ""
+          type: namespace
+          rule: di-rbx.com
+          enable: true
+        - id: ee5986d3
+          name: ""
+          type: namespace
+          rule: dis.gd
+          enable: true
+        - id: 0155b8e0
+          name: ""
+          type: namespace
+          rule: disboard.org
+          enable: true
+        - id: d4fd68ba
+          name: ""
+          type: namespace
+          rule: discord-activities.com
+          enable: true
+        - id: f6facf13
+          name: ""
+          type: namespace
+          rule: discord.center
+          enable: true
+        - id: 2a1cc23d
+          name: ""
+          type: namespace
+          rule: discord.co
+          enable: true
+        - id: cb8cdc62
+          name: ""
+          type: namespace
+          rule: discord.com
+          enable: true
+        - id: 79f1a588
+          name: ""
+          type: namespace
+          rule: discord.design
+          enable: true
+        - id: cb806805
+          name: ""
+          type: namespace
+          rule: discord.dev
+          enable: true
+        - id: "62071342"
+          name: ""
+          type: namespace
+          rule: discord.gg
+          enable: true
+        - id: 1ed149d7
+          name: ""
+          type: namespace
+          rule: discord.gift
+          enable: true
+        - id: 8bd8586e
+          name: ""
+          type: namespace
+          rule: discord.gifts
+          enable: true
+        - id: 3a50e99e
+          name: ""
+          type: namespace
+          rule: discord.me
+          enable: true
+        - id: f315622e
+          name: ""
+          type: namespace
+          rule: discord.media
+          enable: true
+        - id: b317bc33
+          name: ""
+          type: namespace
+          rule: discord.new
+          enable: true
+        - id: 290a91d0
+          name: ""
+          type: namespace
+          rule: discord.st
+          enable: true
+        - id: 2944fc62
+          name: ""
+          type: namespace
+          rule: discord.store
+          enable: true
+        - id: 548cd0b6
+          name: ""
+          type: namespace
+          rule: discord.tools
+          enable: true
+        - id: b9b19882
+          name: ""
+          type: namespace
+          rule: discordInvites.net
+          enable: true
+        - id: 451fe457
+          name: ""
+          type: namespace
+          rule: discordactivities.com
+          enable: true
+        - id: ad062002
+          name: ""
+          type: namespace
+          rule: discordapp.com
+          enable: true
+        - id: 925f6009
+          name: ""
+          type: namespace
+          rule: discordapp.io
+          enable: true
+        - id: 13b99ca2
+          name: ""
+          type: namespace
+          rule: discordapp.net
+          enable: true
+        - id: cf43aaac
+          name: ""
+          type: namespace
+          rule: discordbee.com
+          enable: true
+        - id: 6a3a0a44
+          name: ""
+          type: namespace
+          rule: discordbotlist.com
+          enable: true
+        - id: 1d1523fe
+          name: ""
+          type: namespace
+          rule: discordcdn.com
+          enable: true
+        - id: 3c5b7285
+          name: ""
+          type: namespace
+          rule: discordexpert.com
+          enable: true
+        - id: 93aa59f4
+          name: ""
+          type: namespace
+          rule: discordhome.com
+          enable: true
+        - id: 3f8bb2a8
+          name: ""
+          type: namespace
+          rule: discordhub.com
+          enable: true
+        - id: 96a38fba
+          name: ""
+          type: namespace
+          rule: discordlist.me
+          enable: true
+        - id: 5890d573
+          name: ""
+          type: namespace
+          rule: discordlist.space
+          enable: true
+        - id: db6f6037
+          name: ""
+          type: namespace
+          rule: discordmerch.com
+          enable: true
+        - id: 24f46a7b
+          name: ""
+          type: namespace
+          rule: discordpartygames.com
+          enable: true
+        - id: 4b42e788
+          name: ""
+          type: namespace
+          rule: discords.com
+          enable: true
+        - id: 0f9ea705
+          name: ""
+          type: namespace
+          rule: discordsays.com
+          enable: true
+        - id: 039f09ba
+          name: ""
+          type: namespace
+          rule: discordservers.com
+          enable: true
+        - id: 3d08e533
+          name: ""
+          type: namespace
+          rule: discordstatus.com
+          enable: true
+        - id: 72ed13af
+          name: ""
+          type: namespace
+          rule: discordtop.com
+          enable: true
+        - id: 7ab975e7
+          name: ""
+          type: namespace
+          rule: disforge.com
+          enable: true
+        - id: dd7bbde1
+          name: ""
+          type: namespace
+          rule: donmai.us
+          enable: true
+        - id: 5831cd34
+          name: ""
+          type: namespace
+          rule: doramy.club
+          enable: true
+        - id: de722b46
+          name: ""
+          type: namespace
+          rule: doxa.team
+          enable: true
+        - id: 68d41feb
+          name: ""
+          type: namespace
+          rule: duolingo.com
+          enable: true
+        - id: 7380e701
+          name: ""
+          type: namespace
+          rule: dw.com
+          enable: true
+        - id: c60691c1
+          name: ""
+          type: namespace
+          rule: dyno.gg
+          enable: true
+        - id: d4070c7e
+          name: ""
+          type: namespace
+          rule: dzcdn.net
+          enable: true
+        - id: fa6d97bc
+          name: ""
+          type: namespace
+          rule: echofm.online
+          enable: true
+        - id: f9535fc1
+          name: ""
+          type: namespace
+          rule: ehorussia.com
+          enable: true
+        - id: c6164e11
+          name: ""
+          type: namespace
+          rule: ej.ru
+          enable: true
+        - id: 3bb558d2
+          name: ""
+          type: namespace
+          rule: elevenlabs.io
+          enable: true
+        - id: a988ae2d
+          name: ""
+          type: namespace
+          rule: eu.org
+          enable: true
+        - id: e5f4cb98
+          name: ""
+          type: namespace
+          rule: euronews.com
+          enable: true
+        - id: 2da2a555
+          name: ""
+          type: namespace
+          rule: exler.ru
+          enable: true
+        - id: 0c222482
+          name: ""
+          type: namespace
+          rule: externulls.com
+          enable: true
+        - id: 02e24aa7
+          name: ""
+          type: namespace
+          rule: f95zone.to
+          enable: true
+        - id: 72926b18
+          name: ""
+          type: namespace
+          rule: facebook.com
+          enable: true
+        - id: 8f8b0ddf
+          name: ""
+          type: namespace
+          rule: facebook.com.es
+          enable: true
+        - id: a83b320b
+          name: ""
+          type: namespace
+          rule: facebook.com.vn
+          enable: true
+        - id: 292a0405
+          name: ""
+          type: namespace
+          rule: facebook.fr
+          enable: true
+        - id: "44700528"
+          name: ""
+          type: namespace
+          rule: facebook.net
+          enable: true
+        - id: 32ca4dc5
+          name: ""
+          type: namespace
+          rule: fanbox.cc
+          enable: true
+        - id: 19071f70
+          name: ""
+          type: namespace
+          rule: fast.com
+          enable: true
+        - id: 52c07913
+          name: ""
+          type: namespace
+          rule: fastly.net
+          enable: true
+        - id: 80c0995b
+          name: ""
+          type: namespace
+          rule: fb.com
+          enable: true
+        - id: 1034441f
+          name: ""
+          type: namespace
+          rule: fb.me
+          enable: true
+        - id: fb0b8265
+          name: ""
+          type: namespace
+          rule: fbcdn.com
+          enable: true
+        - id: c3debdc2
+          name: ""
+          type: namespace
+          rule: fbcdn.net
+          enable: true
+        - id: 5bd582bf
+          name: ""
+          type: namespace
+          rule: fbsbx.com
+          enable: true
+        - id: abf445ad
+          name: ""
+          type: namespace
+          rule: feelinsonice.com
+          enable: true
+        - id: bdc530a5
+          name: ""
+          type: namespace
+          rule: femeretes.org
+          enable: true
+        - id: 37bc5054
+          name: ""
+          type: namespace
+          rule: ficbook.net
+          enable: true
+        - id: 39c3edc9
+          name: ""
+          type: namespace
+          rule: filmitorrent.net
+          enable: true
+        - id: b4fb2faf
+          name: ""
+          type: namespace
+          rule: filmix.biz
+          enable: true
+        - id: 9c89d059
+          name: ""
+          type: namespace
+          rule: filmix.fm
+          enable: true
+        - id: 053c9ca5
+          name: ""
+          type: namespace
+          rule: findAdiscord.com
+          enable: true
+        - id: 36b9c64a
+          name: ""
+          type: namespace
+          rule: fmhy.lol
+          enable: true
+        - id: 07ff0379
+          name: ""
+          type: namespace
+          rule: fmhy.net
+          enable: true
+        - id: ff62a02c
+          name: ""
+          type: namespace
+          rule: fragment.com
+          enable: true
+        - id: b88fcc67
+          name: ""
+          type: namespace
+          rule: freetp.org
+          enable: true
+        - id: 2386cfbb
+          name: ""
+          type: namespace
+          rule: garmin.com
+          enable: true
+        - id: 6990d6cb
+          name: ""
+          type: namespace
+          rule: gelbooru.com
+          enable: true
+        - id: bdbe49cc
+          name: ""
+          type: namespace
+          rule: getsentry.net
+          enable: true
+        - id: 57a5c5c0
+          name: ""
+          type: namespace
+          rule: ggpht.cn
+          enable: true
+        - id: f4b7017a
+          name: ""
+          type: namespace
+          rule: ggpht.com
+          enable: true
+        - id: 9494232e
+          name: ""
+          type: namespace
+          rule: github.com
+          enable: true
+        - id: a94818b8
+          name: ""
+          type: namespace
+          rule: githubcopilot.com
+          enable: true
+        - id: 731e83b4
+          name: ""
+          type: namespace
+          rule: githubusercontent.com
+          enable: true
+        - id: "51828785"
+          name: ""
+          type: namespace
+          rule: goblocks.com
+          enable: true
+        - id: 67b2c6c5
+          name: ""
+          type: namespace
+          rule: goblox.com
+          enable: true
+        - id: 691a6e7d
+          name: ""
+          type: namespace
+          rule: golosameriki.com
+          enable: true
+        - id: dc4ccdb9
+          name: ""
+          type: namespace
+          rule: gooblox.com
+          enable: true
+        - id: 6cd6e0f3
+          name: ""
+          type: namespace
+          rule: google.com
+          enable: true
+        - id: 8477af49
+          name: ""
+          type: namespace
+          rule: googleapis.com
+          enable: true
+        - id: e8d8bed6
+          name: ""
+          type: namespace
+          rule: googleusercontent.com
+          enable: true
+        - id: "8430e148"
+          name: ""
+          type: namespace
+          rule: googlevideo.com
+          enable: true
+        - id: 3a9fbacd
+          name: ""
+          type: namespace
+          rule: gordonua.com
+          enable: true
+        - id: f83d785b
+          name: ""
+          type: namespace
+          rule: gpt3-openai.com
+          enable: true
+        - id: 64cc335e
+          name: ""
+          type: namespace
+          rule: grammarly.com
+          enable: true
+        - id: e306ef5b
+          name: ""
+          type: namespace
+          rule: grammarly.io
+          enable: true
+        - id: eeefad1d
+          name: ""
+          type: namespace
+          rule: graph.org
+          enable: true
+        - id: b048a822
+          name: ""
+          type: namespace
+          rule: grazie.ai
+          enable: true
+        - id: 1f9869ec
+          name: ""
+          type: namespace
+          rule: grok.com
+          enable: true
+        - id: 3a304d65
+          name: ""
+          type: namespace
+          rule: gstatic.com
+          enable: true
+        - id: "83557804"
+          name: ""
+          type: namespace
+          rule: gulagu.net
+          enable: true
+        - id: e1726159
+          name: ""
+          type: namespace
+          rule: gvt1.com
+          enable: true
+        - id: 28e4e395
+          name: ""
+          type: namespace
+          rule: hacksawgaming.com
+          enable: true
+        - id: 55f1075c
+          name: ""
+          type: namespace
+          rule: hdrezka.ac
+          enable: true
+        - id: d24a40b9
+          name: ""
+          type: namespace
+          rule: hdrezka.ag
+          enable: true
+        - id: 4ae1e4f5
+          name: ""
+          type: namespace
+          rule: hdrezka.cm
+          enable: true
+        - id: d1388f64
+          name: ""
+          type: namespace
+          rule: hellonotion.com
+          enable: true
+        - id: d1635e89
+          name: ""
+          type: namespace
+          rule: hentaichan.live
+          enable: true
+        - id: "16847712"
+          name: ""
+          type: namespace
+          rule: holod.media
+          enable: true
+        - id: c74a9acf
+          name: ""
+          type: namespace
+          rule: hqporner.com
+          enable: true
+        - id: e909b8a7
+          name: ""
+          type: namespace
+          rule: hrw.org
+          enable: true
+        - id: 619f959c
+          name: ""
+          type: namespace
+          rule: humancoexperience.com
+          enable: true
+        - id: 2cc13da2
+          name: ""
+          type: namespace
+          rule: ibytedtos.com
+          enable: true
+        - id: 968ddbda
+          name: ""
+          type: namespace
+          rule: ibyteimg.com
+          enable: true
+        - id: 6d94960e
+          name: ""
+          type: namespace
+          rule: ig.me
+          enable: true
+        - id: d2953533
+          name: ""
+          type: namespace
+          rule: ill.in.ua
+          enable: true
+        - id: 37ccdaa9
+          name: ""
+          type: namespace
+          rule: important-stories.com
+          enable: true
+        - id: 78ed0f79
+          name: ""
+          type: namespace
+          rule: infinitenovel.eu
+          enable: true
+        - id: 64c12f76
+          name: ""
+          type: namespace
+          rule: instagram.com
+          enable: true
+        - id: aeb8aa69
+          name: ""
+          type: namespace
+          rule: intellij.com
+          enable: true
+        - id: 8fee58ea
+          name: ""
+          type: namespace
+          rule: intellij.net
+          enable: true
+        - id: 2080b031
+          name: ""
+          type: namespace
+          rule: intellij.org
+          enable: true
+        - id: c8b769ae
+          name: ""
+          type: namespace
+          rule: intercom.io
+          enable: true
+        - id: c8d3a0b5
+          name: ""
+          type: namespace
+          rule: intercomassets.com
+          enable: true
+        - id: dfaf38da
+          name: ""
+          type: namespace
+          rule: intercomcdn.com
+          enable: true
+        - id: 9059b4c8
+          name: ""
+          type: namespace
+          rule: ipstatp.com
+          enable: true
+        - id: f9d7b50f
+          name: ""
+          type: namespace
+          rule: isnssdk.com
+          enable: true
+        - id: e7b4b1c6
+          name: ""
+          type: namespace
+          rule: istories.media
+          enable: true
+        - id: 36b89ed9
+          name: ""
+          type: namespace
+          rule: itch.io
+          enable: true
+        - id: 067ecd63
+          name: ""
+          type: namespace
+          rule: itch.zone
+          enable: true
+        - id: e9b0fd32
+          name: ""
+          type: namespace
+          rule: jb.gg
+          enable: true
+        - id: 0ac0f5d8
+          name: ""
+          type: namespace
+          rule: jetbrains.ai
+          enable: true
+        - id: 47066c42
+          name: ""
+          type: namespace
+          rule: jetbrains.com
+          enable: true
+        - id: da9d6f35
+          name: ""
+          type: namespace
+          rule: jetbrains.com.cn
+          enable: true
+        - id: 534ed845
+          name: ""
+          type: namespace
+          rule: jetbrains.dev
+          enable: true
+        - id: 802a5857
+          name: ""
+          type: namespace
+          rule: jetbrains.net
+          enable: true
+        - id: abddc796
+          name: ""
+          type: namespace
+          rule: jetbrains.org
+          enable: true
+        - id: 5f849f26
+          name: ""
+          type: namespace
+          rule: jetbrains.ru
+          enable: true
+        - id: 213a42c6
+          name: ""
+          type: namespace
+          rule: jetbrains.space
+          enable: true
+        - id: 4ac39f84
+          name: ""
+          type: namespace
+          rule: jetbrains.team
+          enable: true
+        - id: bfcc93e3
+          name: ""
+          type: namespace
+          rule: jut.su
+          enable: true
+        - id: 0d7280c1
+          name: ""
+          type: namespace
+          rule: kara.su
+          enable: true
+        - id: 5d18af0f
+          name: ""
+          type: namespace
+          rule: kasparov.ru
+          enable: true
+        - id: 6f088492
+          name: ""
+          type: namespace
+          rule: kavkaz-uzel.eu
+          enable: true
+        - id: 2001aa7a
+          name: ""
+          type: namespace
+          rule: kino.pub
+          enable: true
+        - id: 1b44c925
+          name: ""
+          type: namespace
+          rule: kinobase.org
+          enable: true
+        - id: 6902c2bd
+          name: ""
+          type: namespace
+          rule: kinovod.net
+          enable: true
+        - id: 7caa9e66
+          name: ""
+          type: namespace
+          rule: kinovod.pro
+          enable: true
+        - id: f28f45cb
+          name: ""
+          type: namespace
+          rule: kinozal.me
+          enable: true
+        - id: 2b5dddb3
+          name: ""
+          type: namespace
+          rule: kinozal.tv
+          enable: true
+        - id: a624e6f0
+          name: ""
+          type: namespace
+          rule: kodik-add.com
+          enable: true
+        - id: dc85a031
+          name: ""
+          type: namespace
+          rule: kodik-cdn.com
+          enable: true
+        - id: ccb5fbe7
+          name: ""
+          type: namespace
+          rule: kodik-storage.com
+          enable: true
+        - id: bf5835ea
+          name: ""
+          type: namespace
+          rule: kodik.biz
+          enable: true
+        - id: c3908601
+          name: ""
+          type: namespace
+          rule: kodik.info
+          enable: true
+        - id: 370b80b9
+          name: ""
+          type: namespace
+          rule: kodikapi.com
+          enable: true
+        - id: 92414f1c
+          name: ""
+          type: namespace
+          rule: kodikdb.com
+          enable: true
+        - id: 76b01982
+          name: ""
+          type: namespace
+          rule: korrespondent.net
+          enable: true
+        - id: 4308672a
+          name: ""
+          type: namespace
+          rule: kotl.in
+          enable: true
+        - id: b1ce4820
+          name: ""
+          type: namespace
+          rule: kotlinconf.com
+          enable: true
+        - id: 57f4fc79
+          name: ""
+          type: namespace
+          rule: kotlinlang.org
+          enable: true
+        - id: 69a3b95a
+          name: ""
+          type: namespace
+          rule: krymr.com
+          enable: true
+        - id: 4bb615ab
+          name: ""
+          type: namespace
+          rule: ktor.io
+          enable: true
+        - id: db726f59
+          name: ""
+          type: namespace
+          rule: libria.fun
+          enable: true
+        - id: 7335821c
+          name: ""
+          type: namespace
+          rule: licdn.com
+          enable: true
+        - id: c12ebcef
+          name: ""
+          type: namespace
+          rule: linkedin.com
+          enable: true
+        - id: 9f0b7dbf
+          name: ""
+          type: namespace
+          rule: linktr.ee
+          enable: true
+        - id: ccb1d018
+          name: ""
+          type: namespace
+          rule: live.net
+          enable: true
+        - id: 3378ae78
+          name: ""
+          type: namespace
+          rule: llnwi.net
+          enable: true
+        - id: 3728b05e
+          name: ""
+          type: namespace
+          rule: lostfilm.run
+          enable: true
+        - id: fd09fc22
+          name: ""
+          type: namespace
+          rule: lostfilm.tv
+          enable: true
+        - id: 41ec3a02
+          name: ""
+          type: namespace
+          rule: lostfilm.win
+          enable: true
+        - id: 7308578c
+          name: ""
+          type: namespace
+          rule: luau-lang.org
+          enable: true
+        - id: fa8fb295
+          name: ""
+          type: namespace
+          rule: luau.org
+          enable: true
+        - id: 48ed25ca
+          name: ""
+          type: namespace
+          rule: luobu.biz
+          enable: true
+        - id: 23eefaea
+          name: ""
+          type: namespace
+          rule: luobu.info
+          enable: true
+        - id: 1daa638a
+          name: ""
+          type: namespace
+          rule: luobu.io
+          enable: true
+        - id: b56198e1
+          name: ""
+          type: namespace
+          rule: luobu.org
+          enable: true
+        - id: adc8e9a6
+          name: ""
+          type: namespace
+          rule: make.com
+          enable: true
+        - id: dbdd425b
+          name: ""
+          type: namespace
+          rule: mangahub.ru
+          enable: true
+        - id: 22fddedf
+          name: ""
+          type: namespace
+          rule: mangapark.net
+          enable: true
+        - id: 73b5c868
+          name: ""
+          type: namespace
+          rule: mdza.io
+          enable: true
+        - id: e6edda5d
+          name: ""
+          type: namespace
+          rule: mediazona.ca
+          enable: true
+        - id: 9a6e4ea2
+          name: ""
+          type: namespace
+          rule: medium.com
+          enable: true
+        - id: 638485fc
+          name: ""
+          type: namespace
+          rule: meduza.io
+          enable: true
+        - id: 93a09214
+          name: ""
+          type: namespace
+          rule: mee6.xyz
+          enable: true
+        - id: 067d5e9a
+          name: ""
+          type: namespace
+          rule: memohrc.org
+          enable: true
+        - id: c6db3ab8
+          name: ""
+          type: namespace
+          rule: memopzk.org
+          enable: true
+        - id: 25c3c175
+          name: ""
+          type: namespace
+          rule: memorialcenter.org
+          enable: true
+        - id: e0fe4af6
+          name: ""
+          type: namespace
+          rule: messenger.com
+          enable: true
+        - id: 6ae23fc1
+          name: ""
+          type: namespace
+          rule: metabrainz.org
+          enable: true
+        - id: 1dd5a606
+          name: ""
+          type: namespace
+          rule: microsoft.com
+          enable: true
+        - id: f6887274
+          name: ""
+          type: namespace
+          rule: microsoftapp.net
+          enable: true
+        - id: 55931fa4
+          name: ""
+          type: namespace
+          rule: miro.com
+          enable: true
+        - id: 35f5855e
+          name: ""
+          type: namespace
+          rule: mirostatic.com
+          enable: true
+        - id: 4bbc51b7
+          name: ""
+          type: namespace
+          rule: modrinth.com
+          enable: true
+        - id: 4d765e81
+          name: ""
+          type: namespace
+          rule: modrinth.gg
+          enable: true
+        - id: a8625720
+          name: ""
+          type: namespace
+          rule: moscowtimes.ru
+          enable: true
+        - id: e76fa618
+          name: ""
+          type: namespace
+          rule: mrakopedia.net
+          enable: true
+        - id: 19eb5400
+          name: ""
+          type: namespace
+          rule: muscdn.com
+          enable: true
+        - id: fda845eb
+          name: ""
+          type: namespace
+          rule: musemuse.cn
+          enable: true
+        - id: 5c8e0497
+          name: ""
+          type: namespace
+          rule: musical.ly
+          enable: true
+        - id: 7288e73a
+          name: ""
+          type: namespace
+          rule: musicbrainz.org
+          enable: true
+        - id: 023b335d
+          name: ""
+          type: namespace
+          rule: myjetbrains.com
+          enable: true
+        - id: cc394e73
+          name: ""
+          type: namespace
+          rule: naukimg.com
+          enable: true
+        - id: c5cdc12c
+          name: ""
+          type: namespace
+          rule: naukri.com
+          enable: true
+        - id: afdd1d35
+          name: ""
+          type: namespace
+          rule: navalny.com
+          enable: true
+        - id: 6cdc9a91
+          name: ""
+          type: namespace
+          rule: netflix.ca
+          enable: true
+        - id: a61fceb6
+          name: ""
+          type: namespace
+          rule: netflix.com
+          enable: true
+        - id: dbbf8861
+          name: ""
+          type: namespace
+          rule: netflix.com.au
+          enable: true
+        - id: eba9340b
+          name: ""
+          type: namespace
+          rule: netflix.net
+          enable: true
+        - id: f39043d3
+          name: ""
+          type: namespace
+          rule: netflixdnstest1.com
+          enable: true
+        - id: "34589347"
+          name: ""
+          type: namespace
+          rule: netflixdnstest10.com
+          enable: true
+        - id: a53f1183
+          name: ""
+          type: namespace
+          rule: netflixdnstest2.com
+          enable: true
+        - id: b4130787
+          name: ""
+          type: namespace
+          rule: netflixdnstest3.com
+          enable: true
+        - id: 2e73e5bd
+          name: ""
+          type: namespace
+          rule: netflixdnstest4.com
+          enable: true
+        - id: f1446f0d
+          name: ""
+          type: namespace
+          rule: netflixdnstest5.com
+          enable: true
+        - id: dcedadb3
+          name: ""
+          type: namespace
+          rule: netflixdnstest6.com
+          enable: true
+        - id: d5bbc7de
+          name: ""
+          type: namespace
+          rule: netflixdnstest7.com
+          enable: true
+        - id: e231736d
+          name: ""
+          type: namespace
+          rule: netflixdnstest8.com
+          enable: true
+        - id: a4d7da65
+          name: ""
+          type: namespace
+          rule: netflixdnstest9.com
+          enable: true
+        - id: d8caebcd
+          name: ""
+          type: namespace
+          rule: netflixinvestor.com
+          enable: true
+        - id: 80c11644
+          name: ""
+          type: namespace
+          rule: netflixstudios.com
+          enable: true
+        - id: f85a3007
+          name: ""
+          type: namespace
+          rule: netflixtechblog.com
+          enable: true
+        - id: 893d4bf5
+          name: ""
+          type: namespace
+          rule: newstudio.tv
+          enable: true
+        - id: 95ac93b7
+          name: ""
+          type: namespace
+          rule: newtimes.ru
+          enable: true
+        - id: e4aec0cb
+          name: ""
+          type: namespace
+          rule: nflxext.com
+          enable: true
+        - id: 77a30eaf
+          name: ""
+          type: namespace
+          rule: nflximg.com
+          enable: true
+        - id: 616e9003
+          name: ""
+          type: namespace
+          rule: nflximg.net
+          enable: true
+        - id: 9fdd1d8a
+          name: ""
+          type: namespace
+          rule: nflxsearch.net
+          enable: true
+        - id: 833bfafd
+          name: ""
+          type: namespace
+          rule: nflxso.net
+          enable: true
+        - id: 3ef04076
+          name: ""
+          type: namespace
+          rule: nflxvideo.net
+          enable: true
+        - id: a64c4883
+          name: ""
+          type: namespace
+          rule: nnmclub.to
+          enable: true
+        - id: d2d2ce1e
+          name: ""
+          type: namespace
+          rule: nnmstatic.win
+          enable: true
+        - id: ef25a98e
+          name: ""
+          type: namespace
+          rule: notepad-plus-plus.org
+          enable: true
+        - id: 648c0b6a
+          name: ""
+          type: namespace
+          rule: notion-media.com
+          enable: true
+        - id: 82d0fcac
+          name: ""
+          type: namespace
+          rule: notion-static.com
+          enable: true
+        - id: 0975059a
+          name: ""
+          type: namespace
+          rule: notion.ai
+          enable: true
+        - id: "23131613"
+          name: ""
+          type: namespace
+          rule: notion.com
+          enable: true
+        - id: 74d62b1d
+          name: ""
+          type: namespace
+          rule: notion.dev
+          enable: true
+        - id: cf5ca0d7
+          name: ""
+          type: namespace
+          rule: notion.site
+          enable: true
+        - id: 724ec522
+          name: ""
+          type: namespace
+          rule: notion.so
+          enable: true
+        - id: b55ee12f
+          name: ""
+          type: namespace
+          rule: notionup.com
+          enable: true
+        - id: 992268b2
+          name: ""
+          type: namespace
+          rule: notionusercontent.com
+          enable: true
+        - id: 151ef4ba
+          name: ""
+          type: namespace
+          rule: novayagazeta.eu
+          enable: true
+        - id: f652990e
+          name: ""
+          type: namespace
+          rule: novayagazeta.ru
+          enable: true
+        - id: "26018449"
+          name: ""
+          type: namespace
+          rule: nyaa.land
+          enable: true
+        - id: 75ff6fe4
+          name: ""
+          type: namespace
+          rule: nyaa.si
+          enable: true
+        - id: 1b41f634
+          name: ""
+          type: namespace
+          rule: oaistatic.com
+          enable: true
+        - id: 84da4225
+          name: ""
+          type: namespace
+          rule: oaiusercontent.com
+          enable: true
+        - id: d6b719c7
+          name: ""
+          type: namespace
+          rule: onetrust.com
+          enable: true
+        - id: 923c4b68
+          name: ""
+          type: namespace
+          rule: openai.com
+          enable: true
+        - id: 5c240b2d
+          name: ""
+          type: namespace
+          rule: openai.fund
+          enable: true
+        - id: 3c1395bf
+          name: ""
+          type: namespace
+          rule: openai.org
+          enable: true
+        - id: 38de077b
+          name: ""
+          type: namespace
+          rule: ovd.info
+          enable: true
+        - id: "57567172"
+          name: ""
+          type: namespace
+          rule: ovdinfo.legal
+          enable: true
+        - id: 30a23ac4
+          name: ""
+          type: namespace
+          rule: ovdinfo.org
+          enable: true
+        - id: 3beca446
+          name: ""
+          type: namespace
+          rule: ovh.net
+          enable: true
+        - id: 36cc823d
+          name: ""
+          type: namespace
+          rule: paperagency.team
+          enable: true
+        - id: d1f80a41
+          name: ""
+          type: namespace
+          rule: paperpaper.ru
+          enable: true
+        - id: 11d9acfa
+          name: ""
+          type: namespace
+          rule: papersupport.ru
+          enable: true
+        - id: 1d683418
+          name: ""
+          type: namespace
+          rule: pastela.app
+          enable: true
+        - id: 6ef5a5b3
+          name: ""
+          type: namespace
+          rule: patreon.com
+          enable: true
+        - id: 95849be7
+          name: ""
+          type: namespace
+          rule: patreonusercontent.com
+          enable: true
+        - id: d5576c36
+          name: ""
+          type: namespace
+          rule: phncdn.com
+          enable: true
+        - id: 55df2576
+          name: ""
+          type: namespace
+          rule: pixiv-recommend.net
+          enable: true
+        - id: f9dbf2ea
+          name: ""
+          type: namespace
+          rule: pixiv.co.jp
+          enable: true
+        - id: 940729ca
+          name: ""
+          type: namespace
+          rule: pixiv.help
+          enable: true
+        - id: 4a0ecfbf
+          name: ""
+          type: namespace
+          rule: pixiv.me
+          enable: true
+        - id: f8f5e9b4
+          name: ""
+          type: namespace
+          rule: pixiv.net
+          enable: true
+        - id: 00fbb549
+          name: ""
+          type: namespace
+          rule: pixiv.org
+          enable: true
+        - id: a5382d27
+          name: ""
+          type: namespace
+          rule: pixivision.net
+          enable: true
+        - id: 661f1bf7
+          name: ""
+          type: namespace
+          rule: plab.site
+          enable: true
+        - id: 446d7ca6
+          name: ""
+          type: namespace
+          rule: polit.ru
+          enable: true
+        - id: 04f8817f
+          name: ""
+          type: namespace
+          rule: pornhub.com
+          enable: true
+        - id: "735219e7"
+          name: ""
+          type: namespace
+          rule: pornolab.net
+          enable: true
+        - id: f06ada2c
+          name: ""
+          type: namespace
+          rule: prismic.io
+          enable: true
+        - id: 435a3d98
+          name: ""
+          type: namespace
+          rule: proekt.media
+          enable: true
+        - id: 58d2a11d
+          name: ""
+          type: namespace
+          rule: prostovpn.org
+          enable: true
+        - id: cbdfc934
+          name: ""
+          type: namespace
+          rule: proton.me
+          enable: true
+        - id: 045df578
+          name: ""
+          type: namespace
+          rule: protonmail.com
+          enable: true
+        - id: 255b70ba
+          name: ""
+          type: namespace
+          rule: proxyline.net
+          enable: true
+        - id: 279dea76
+          name: ""
+          type: namespace
+          rule: pscdn.co
+          enable: true
+        - id: ea290ca1
+          name: ""
+          type: namespace
+          rule: pstatp.com
+          enable: true
+        - id: 3abbc4b6
+          name: ""
+          type: namespace
+          rule: pximg.net
+          enable: true
+        - id: 4f2298cb
+          name: ""
+          type: namespace
+          rule: quiz.directory
+          enable: true
+        - id: 6e5acc4b
+          name: ""
+          type: namespace
+          rule: quora.com
+          enable: true
+        - id: 6e54bdb9
+          name: ""
+          type: namespace
+          rule: quoracdn.net
+          enable: true
+        - id: 6bc7f59d
+          name: ""
+          type: namespace
+          rule: radiosvoboda.org
+          enable: true
+        - id: f4d9a5c7
+          name: ""
+          type: namespace
+          rule: rakuten.com
+          enable: true
+        - id: 060b5648
+          name: ""
+          type: namespace
+          rule: ralphlauren.eu
+          enable: true
+        - id: dd7d3535
+          name: ""
+          type: namespace
+          rule: rblx.co
+          enable: true
+        - id: 7d377f52
+          name: ""
+          type: namespace
+          rule: rblx.com
+          enable: true
+        - id: d2ea6603
+          name: ""
+          type: namespace
+          rule: rblx.org
+          enable: true
+        - id: 43005cc7
+          name: ""
+          type: namespace
+          rule: rbx-stage.com
+          enable: true
+        - id: 34968da4
+          name: ""
+          type: namespace
+          rule: rbx.cn
+          enable: true
+        - id: 88606edb
+          name: ""
+          type: namespace
+          rule: rbx.com
+          enable: true
+        - id: 7dabeeae
+          name: ""
+          type: namespace
+          rule: rbx.dev
+          enable: true
+        - id: 1977c4db
+          name: ""
+          type: namespace
+          rule: rbxcdn-cn.com
+          enable: true
+        - id: 8de6249e
+          name: ""
+          type: namespace
+          rule: rbxcdn.com
+          enable: true
+        - id: 7dacadc1
+          name: ""
+          type: namespace
+          rule: rbxcdn.net
+          enable: true
+        - id: a5c1fc39
+          name: ""
+          type: namespace
+          rule: rbxes.com
+          enable: true
+        - id: 824f786b
+          name: ""
+          type: namespace
+          rule: rbxgame.com
+          enable: true
+        - id: 5b747561
+          name: ""
+          type: namespace
+          rule: rbxinfra.com
+          enable: true
+        - id: adfc0085
+          name: ""
+          type: namespace
+          rule: rbxinfra.net
+          enable: true
+        - id: 0dbb5b58
+          name: ""
+          type: namespace
+          rule: rbxlabs.com
+          enable: true
+        - id: 59f7407c
+          name: ""
+          type: namespace
+          rule: rbxtrk.com
+          enable: true
+        - id: 45c57989
+          name: ""
+          type: namespace
+          rule: rdtcdn.com
+          enable: true
+        - id: d847e55d
+          name: ""
+          type: namespace
+          rule: reddxxx.com
+          enable: true
+        - id: 7d5eef71
+          name: ""
+          type: namespace
+          rule: redgifs.com
+          enable: true
+        - id: a596389a
+          name: ""
+          type: namespace
+          rule: redtube.com
+          enable: true
+        - id: 64fadaa2
+          name: ""
+          type: namespace
+          rule: refactoring.guru
+          enable: true
+        - id: c32f0c60
+          name: ""
+          type: namespace
+          rule: returnyoutubedislikeapi.com
+          enable: true
+        - id: 0ce6f661
+          name: ""
+          type: namespace
+          rule: rezka.ag
+          enable: true
+        - id: 7845df98
+          name: ""
+          type: namespace
+          rule: rezka.my
+          enable: true
+        - id: 086a8f07
+          name: ""
+          type: namespace
+          rule: rezkify.com
+          enable: true
+        - id: cade6702
+          name: ""
+          type: namespace
+          rule: ro-blox.com
+          enable: true
+        - id: c1f588e7
+          name: ""
+          type: namespace
+          rule: roadblocks.com
+          enable: true
+        - id: 0ae3f37b
+          name: ""
+          type: namespace
+          rule: roblocks.com
+          enable: true
+        - id: bde731fb
+          name: ""
+          type: namespace
+          rule: roblox.app
+          enable: true
+        - id: 31ab4280
+          name: ""
+          type: namespace
+          rule: roblox.ca
+          enable: true
+        - id: 445393ad
+          name: ""
+          type: namespace
+          rule: roblox.cc
+          enable: true
+        - id: d85d9314
+          name: ""
+          type: namespace
+          rule: roblox.cl
+          enable: true
+        - id: a3d0f38d
+          name: ""
+          type: namespace
+          rule: roblox.co.jp
+          enable: true
+        - id: b2607b20
+          name: ""
+          type: namespace
+          rule: roblox.co.uk
+          enable: true
+        - id: 3fd2b799
+          name: ""
+          type: namespace
+          rule: roblox.com
+          enable: true
+        - id: bd350f42
+          name: ""
+          type: namespace
+          rule: roblox.de
+          enable: true
+        - id: cdb3bd81
+          name: ""
+          type: namespace
+          rule: roblox.dev
+          enable: true
+        - id: "64799656"
+          name: ""
+          type: namespace
+          rule: roblox.dk
+          enable: true
+        - id: ecff1ab3
+          name: ""
+          type: namespace
+          rule: roblox.eu
+          enable: true
+        - id: 0f41e873
+          name: ""
+          type: namespace
+          rule: roblox.fr
+          enable: true
+        - id: d841a3ca
+          name: ""
+          type: namespace
+          rule: roblox.hu
+          enable: true
+        - id: c1f2ac3b
+          name: ""
+          type: namespace
+          rule: roblox.in
+          enable: true
+        - id: aa0eafef
+          name: ""
+          type: namespace
+          rule: roblox.it
+          enable: true
+        - id: 8dd13b77
+          name: ""
+          type: namespace
+          rule: roblox.jp
+          enable: true
+        - id: b77d55de
+          name: ""
+          type: namespace
+          rule: roblox.kr
+          enable: true
+        - id: "480212e8"
+          name: ""
+          type: namespace
+          rule: roblox.lat
+          enable: true
+        - id: a7a507ed
+          name: ""
+          type: namespace
+          rule: roblox.mx
+          enable: true
+        - id: f3acb2b2
+          name: ""
+          type: namespace
+          rule: roblox.net
+          enable: true
+        - id: c1d7e0d1
+          name: ""
+          type: namespace
+          rule: roblox.org
+          enable: true
+        - id: 21a781aa
+          name: ""
+          type: namespace
+          rule: roblox.ph
+          enable: true
+        - id: 1c3c975b
+          name: ""
+          type: namespace
+          rule: roblox.pt
+          enable: true
+        - id: 8e8a1b4d
+          name: ""
+          type: namespace
+          rule: roblox.sk
+          enable: true
+        - id: c1bbccd5
+          name: ""
+          type: namespace
+          rule: roblox.tv
+          enable: true
+        - id: "638e0281"
+          name: ""
+          type: namespace
+          rule: roblox.uk
+          enable: true
+        - id: a89d2189
+          name: ""
+          type: namespace
+          rule: roblox.us
+          enable: true
+        - id: 5f17f3c0
+          name: ""
+          type: namespace
+          rule: roblox.vn
+          enable: true
+        - id: a867e5c1
+          name: ""
+          type: namespace
+          rule: robloxads.com
+          enable: true
+        - id: dc42f089
+          name: ""
+          type: namespace
+          rule: robloxcdn.com
+          enable: true
+        - id: 56b2ebe5
+          name: ""
+          type: namespace
+          rule: robloxcorp.com
+          enable: true
+        - id: 2aab11e5
+          name: ""
+          type: namespace
+          rule: robloxcorporation.com
+          enable: true
+        - id: 033057b2
+          name: ""
+          type: namespace
+          rule: robloxdev.com
+          enable: true
+        - id: fdf25c68
+          name: ""
+          type: namespace
+          rule: robloxengine.com
+          enable: true
+        - id: d0c3c1d8
+          name: ""
+          type: namespace
+          rule: robloxgame.com
+          enable: true
+        - id: c992057b
+          name: ""
+          type: namespace
+          rule: robloxlabs.cn
+          enable: true
+        - id: 9f476e94
+          name: ""
+          type: namespace
+          rule: robloxlabs.com
+          enable: true
+        - id: "40945513"
+          name: ""
+          type: namespace
+          rule: robloxmail.com
+          enable: true
+        - id: 9849917e
+          name: ""
+          type: namespace
+          rule: robloxmedia.com
+          enable: true
+        - id: "97017440"
+          name: ""
+          type: namespace
+          rule: robloxrcs.com
+          enable: true
+        - id: d7442593
+          name: ""
+          type: namespace
+          rule: robloxtechtalks.com
+          enable: true
+        - id: 5a41caf3
+          name: ""
+          type: namespace
+          rule: robloxtoy.com
+          enable: true
+        - id: 970f6be6
+          name: ""
+          type: namespace
+          rule: robloxuniverse.com
+          enable: true
+        - id: c3678c6b
+          name: ""
+          type: namespace
+          rule: robux.com
+          enable: true
+        - id: 8c11cc36
+          name: ""
+          type: namespace
+          rule: rocket-cdn.com
+          enable: true
+        - id: 8f50ba33
+          name: ""
+          type: namespace
+          rule: rowblocks.com
+          enable: true
+        - id: 3c20f552
+          name: ""
+          type: namespace
+          rule: rowblox.com
+          enable: true
+        - id: 7d44abdf
+          name: ""
+          type: namespace
+          rule: rulate.ru
+          enable: true
+        - id: 98449d4c
+          name: ""
+          type: namespace
+          rule: rule34.xxx
+          enable: true
+        - id: 6b3738bc
+          name: ""
+          type: namespace
+          rule: rustorka.com
+          enable: true
+        - id: e3b0c15b
+          name: ""
+          type: namespace
+          rule: rutor.info
+          enable: true
+        - id: e86efed2
+          name: ""
+          type: namespace
+          rule: rutor.is
+          enable: true
+        - id: 6639a40b
+          name: ""
+          type: namespace
+          rule: rutor.org
+          enable: true
+        - id: bd5bdc3d
+          name: ""
+          type: namespace
+          rule: rutracker.cc
+          enable: true
+        - id: cb5224ae
+          name: ""
+          type: namespace
+          rule: rutracker.net
+          enable: true
+        - id: e05d9c73
+          name: ""
+          type: namespace
+          rule: rutracker.org
+          enable: true
+        - id: 9407d8da
+          name: ""
+          type: namespace
+          rule: rutracker.ru
+          enable: true
+        - id: b1738f04
+          name: ""
+          type: namespace
+          rule: rutracker.wiki
+          enable: true
+        - id: dab26b10
+          name: ""
+          type: namespace
+          rule: rutrk.org
+          enable: true
+        - id: 064cf4c1
+          name: ""
+          type: namespace
+          rule: sc-cdn.net
+          enable: true
+        - id: 2f13119e
+          name: ""
+          type: namespace
+          rule: sc-corp.net
+          enable: true
+        - id: a94e0f50
+          name: ""
+          type: namespace
+          rule: sc-gw.com
+          enable: true
+        - id: b1a7100d
+          name: ""
+          type: namespace
+          rule: sc-jpl.com
+          enable: true
+        - id: 21bce4a6
+          name: ""
+          type: namespace
+          rule: sc-prod.net
+          enable: true
+        - id: e9c77369
+          name: ""
+          type: namespace
+          rule: sc-static.net
+          enable: true
+        - id: 063fe19b
+          name: ""
+          type: namespace
+          rule: scdn.co
+          enable: true
+        - id: 97ed7c64
+          name: ""
+          type: namespace
+          rule: semnasem.org
+          enable: true
+        - id: 00602d25
+          name: ""
+          type: namespace
+          rule: sentry-cdn.com
+          enable: true
+        - id: b5b20e64
+          name: ""
+          type: namespace
+          rule: sentry.dev
+          enable: true
+        - id: 89891f30
+          name: ""
+          type: namespace
+          rule: sentry.io
+          enable: true
+        - id: fc3d9ba0
+          name: ""
+          type: namespace
+          rule: serv01001.xyz
+          enable: true
+        - id: 7d4dcbaa
+          name: ""
+          type: namespace
+          rule: sgsnssdk.com
+          enable: true
+        - id: aa1d71d7
+          name: ""
+          type: namespace
+          rule: signal.art
+          enable: true
+        - id: 3619281e
+          name: ""
+          type: namespace
+          rule: signal.group
+          enable: true
+        - id: dbe44b8b
+          name: ""
+          type: namespace
+          rule: signal.link
+          enable: true
+        - id: 4fe7379c
+          name: ""
+          type: namespace
+          rule: signal.me
+          enable: true
+        - id: 1b0ac6f7
+          name: ""
+          type: namespace
+          rule: signal.org
+          enable: true
+        - id: ff8f24bf
+          name: ""
+          type: namespace
+          rule: signal.tube
+          enable: true
+        - id: e99f3b7b
+          name: ""
+          type: namespace
+          rule: snap-dev.net
+          enable: true
+        - id: 6d459013
+          name: ""
+          type: namespace
+          rule: snap.com
+          enable: true
+        - id: 47d337a6
+          name: ""
+          type: namespace
+          rule: snapads.com
+          enable: true
+        - id: 79f7c532
+          name: ""
+          type: namespace
+          rule: snapchat-com
+          enable: true
+        - id: 60d7ccfb
+          name: ""
+          type: namespace
+          rule: snapchat.com
+          enable: true
+        - id: aff7fadd
+          name: ""
+          type: namespace
+          rule: snapkit.com
+          enable: true
+        - id: ae9c7a64
+          name: ""
+          type: namespace
+          rule: snapmap.com
+          enable: true
+        - id: c5ace024
+          name: ""
+          type: namespace
+          rule: snapmap.org
+          enable: true
+        - id: ef846a61
+          name: ""
+          type: namespace
+          rule: snapmaps.com
+          enable: true
+        - id: 9c3aa982
+          name: ""
+          type: namespace
+          rule: snd.sc
+          enable: true
+        - id: c110cc8c
+          name: ""
+          type: namespace
+          rule: sndcdn.com
+          enable: true
+        - id: e4d4c464
+          name: ""
+          type: namespace
+          rule: soundcloud.cloud
+          enable: true
+        - id: 4b625e82
+          name: ""
+          type: namespace
+          rule: soundcloud.com
+          enable: true
+        - id: 33769fb4
+          name: ""
+          type: namespace
+          rule: splunkcloud.com
+          enable: true
+        - id: a539a6f2
+          name: ""
+          type: namespace
+          rule: spoti.fi
+          enable: true
+        - id: de9b0205
+          name: ""
+          type: namespace
+          rule: spotify-everywhere.com
+          enable: true
+        - id: f09f2d4b
+          name: ""
+          type: namespace
+          rule: spotify.com
+          enable: true
+        - id: 2077b585
+          name: ""
+          type: namespace
+          rule: spotify.design
+          enable: true
+        - id: f860615e
+          name: ""
+          type: namespace
+          rule: spotifycdn.com
+          enable: true
+        - id: d6acc4ab
+          name: ""
+          type: namespace
+          rule: spotifycdn.net
+          enable: true
+        - id: 80ef97b7
+          name: ""
+          type: namespace
+          rule: spotifycharts.com
+          enable: true
+        - id: c9377d1d
+          name: ""
+          type: namespace
+          rule: spotifycodes.com
+          enable: true
+        - id: 5b6d81a9
+          name: ""
+          type: namespace
+          rule: spotifyforbrands.com
+          enable: true
+        - id: 59aec3c6
+          name: ""
+          type: namespace
+          rule: spotifyjobs.com
+          enable: true
+        - id: 1df1dabf
+          name: ""
+          type: namespace
+          rule: statichdrezka.ac
+          enable: true
+        - id: ebba2ee4
+          name: ""
+          type: namespace
+          rule: stealth.si
+          enable: true
+        - id: bf8036af
+          name: ""
+          type: namespace
+          rule: strava.com
+          enable: true
+        - id: 5b5737e1
+          name: ""
+          type: namespace
+          rule: strpst.com
+          enable: true
+        - id: bff958b6
+          name: ""
+          type: namespace
+          rule: svoboda.org
+          enable: true
+        - id: a52d4f4b
+          name: ""
+          type: namespace
+          rule: t-ru.org
+          enable: true
+        - id: 163032ad
+          name: ""
+          type: namespace
+          rule: t-s.news
+          enable: true
+        - id: 65ae1e03
+          name: ""
+          type: namespace
+          rule: t.co
+          enable: true
+        - id: 2e4736ab
+          name: ""
+          type: namespace
+          rule: t.me
+          enable: true
+        - id: fe52b0ad
+          name: ""
+          type: namespace
+          rule: talkingkotlin.com
+          enable: true
+        - id: aa9980be
+          name: ""
+          type: namespace
+          rule: tayga.info
+          enable: true
+        - id: 801d39eb
+          name: ""
+          type: namespace
+          rule: tdesktop.com
+          enable: true
+        - id: 03c45fb6
+          name: ""
+          type: namespace
+          rule: telega.one
+          enable: true
+        - id: "56024544"
+          name: ""
+          type: namespace
+          rule: telegra.ph
+          enable: true
+        - id: c2296dbe
+          name: ""
+          type: namespace
+          rule: telegram-cdn.org
+          enable: true
+        - id: 9b7750c0
+          name: ""
+          type: namespace
+          rule: telegram.com
+          enable: true
+        - id: 21f9e868
+          name: ""
+          type: namespace
+          rule: telegram.dog
+          enable: true
+        - id: 2f84aa48
+          name: ""
+          type: namespace
+          rule: telegram.me
+          enable: true
+        - id: d12a09b3
+          name: ""
+          type: namespace
+          rule: telegram.org
+          enable: true
+        - id: d9d7e483
+          name: ""
+          type: namespace
+          rule: telegram.space
+          enable: true
+        - id: 3a7b1522
+          name: ""
+          type: namespace
+          rule: telesco.pe
+          enable: true
+        - id: 412ae35a
+          name: ""
+          type: namespace
+          rule: tfbnw.net
+          enable: true
+        - id: 557be988
+          name: ""
+          type: namespace
+          rule: tg.dev
+          enable: true
+        - id: 5fa39e9a
+          name: ""
+          type: namespace
+          rule: the-village.ru
+          enable: true
+        - id: c485cc20
+          name: ""
+          type: namespace
+          rule: thefacebook.com
+          enable: true
+        - id: 20991b90
+          name: ""
+          type: namespace
+          rule: theins.press
+          enable: true
+        - id: 4c20507f
+          name: ""
+          type: namespace
+          rule: theins.ru
+          enable: true
+        - id: fe405fae
+          name: ""
+          type: namespace
+          rule: themoviedb.org
+          enable: true
+        - id: e75f0bbd
+          name: ""
+          type: namespace
+          rule: thepiratebay.org
+          enable: true
+        - id: f9df3fc3
+          name: ""
+          type: namespace
+          rule: thetruestory.news
+          enable: true
+        - id: a22c8e2e
+          name: ""
+          type: namespace
+          rule: tidal.com
+          enable: true
+        - id: a1ff1601
+          name: ""
+          type: namespace
+          rule: tiktok.com
+          enable: true
+        - id: 4c3071d5
+          name: ""
+          type: namespace
+          rule: tiktokcdn-eu.com
+          enable: true
+        - id: 9d10ca5a
+          name: ""
+          type: namespace
+          rule: tiktokcdn-in.com
+          enable: true
+        - id: "57552724"
+          name: ""
+          type: namespace
+          rule: tiktokcdn-us.com
+          enable: true
+        - id: e04a5920
+          name: ""
+          type: namespace
+          rule: tiktokcdn.com
+          enable: true
+        - id: "92722429"
+          name: ""
+          type: namespace
+          rule: tiktokd.org
+          enable: true
+        - id: d1ddd96c
+          name: ""
+          type: namespace
+          rule: tiktokglobalshop.com
+          enable: true
+        - id: 8ec81a9a
+          name: ""
+          type: namespace
+          rule: tiktokv.com
+          enable: true
+        - id: ea8a1324
+          name: ""
+          type: namespace
+          rule: tiktokv.eu
+          enable: true
+        - id: acb97860
+          name: ""
+          type: namespace
+          rule: tiktokw.eu
+          enable: true
+        - id: b2a430ec
+          name: ""
+          type: namespace
+          rule: tlivecdn.com
+          enable: true
+        - id: 187ebf48
+          name: ""
+          type: namespace
+          rule: tmdb.org
+          enable: true
+        - id: ddf6fba5
+          name: ""
+          type: namespace
+          rule: top.gg
+          enable: true
+        - id: 885eeded
+          name: ""
+          type: namespace
+          rule: torrent.by
+          enable: true
+        - id: 3b9031be
+          name: ""
+          type: namespace
+          rule: torrindex.net
+          enable: true
+        - id: c79172ce
+          name: ""
+          type: namespace
+          rule: tracker.wf
+          enable: true
+        - id: dc50cde4
+          name: ""
+          type: namespace
+          rule: trainingpeaks.com
+          enable: true
+        - id: 385e0ffb
+          name: ""
+          type: namespace
+          rule: tryroblox.com
+          enable: true
+        - id: f798fdff
+          name: ""
+          type: namespace
+          rule: ttlivecdn.com
+          enable: true
+        - id: 9daeb197
+          name: ""
+          type: namespace
+          rule: ttoversea.net
+          enable: true
+        - id: 5ad2ce3d
+          name: ""
+          type: namespace
+          rule: ttoverseaus.net
+          enable: true
+        - id: 5ec2cfb7
+          name: ""
+          type: namespace
+          rule: ttwstatic.com
+          enable: true
+        - id: 7ea2b8ea
+          name: ""
+          type: namespace
+          rule: tuta.com
+          enable: true
+        - id: 30fec82d
+          name: ""
+          type: namespace
+          rule: tutanota.com
+          enable: true
+        - id: 4680d08f
+          name: ""
+          type: namespace
+          rule: tvrain.ru
+          enable: true
+        - id: 551e7d12
+          name: ""
+          type: namespace
+          rule: tvrain.tv
+          enable: true
+        - id: 175d6bc4
+          name: ""
+          type: namespace
+          rule: tweetdeck.com
+          enable: true
+        - id: ec0c3faa
+          name: ""
+          type: namespace
+          rule: twimg.com
+          enable: true
+        - id: d2903f4a
+          name: ""
+          type: namespace
+          rule: twitter.com
+          enable: true
+        - id: b8ad9974
+          name: ""
+          type: namespace
+          rule: tx.me
+          enable: true
+        - id: b7149866
+          name: ""
+          type: namespace
+          rule: unian.net
+          enable: true
+        - id: af4e8c6f
+          name: ""
+          type: namespace
+          rule: unlimcasino.com
+          enable: true
+        - id: 8f7eefb2
+          name: ""
+          type: namespace
+          rule: usercontent.dev
+          enable: true
+        - id: 35714f77
+          name: ""
+          type: namespace
+          rule: vavada-cdn.net
+          enable: true
+        - id: d42ce7db
+          name: ""
+          type: namespace
+          rule: vavada.com
+          enable: true
+        - id: 40026c97
+          name: ""
+          type: namespace
+          rule: vavada.net
+          enable: true
+        - id: eff5d612
+          name: ""
+          type: namespace
+          rule: vbcdn.com
+          enable: true
+        - id: 6f977946
+          name: ""
+          type: namespace
+          rule: vbcdn.net
+          enable: true
+        - id: 5acf34c3
+          name: ""
+          type: namespace
+          rule: verstka.media
+          enable: true
+        - id: 114ae115
+          name: ""
+          type: namespace
+          rule: viber.co
+          enable: true
+        - id: fc361bc7
+          name: ""
+          type: namespace
+          rule: viber.com
+          enable: true
+        - id: 042fa68a
+          name: ""
+          type: namespace
+          rule: viber.me
+          enable: true
+        - id: a560952c
+          name: ""
+          type: namespace
+          rule: video-ik-ok-ii.xyz
+          enable: true
+        - id: abc1e668
+          name: ""
+          type: namespace
+          rule: vndb.org
+          enable: true
+        - id: bc47c69e
+          name: ""
+          type: namespace
+          rule: voidboost.cc
+          enable: true
+        - id: 7dfe9d10
+          name: ""
+          type: namespace
+          rule: voidboost.com
+          enable: true
+        - id: 3b0df8ca
+          name: ""
+          type: namespace
+          rule: voidboost.in
+          enable: true
+        - id: f4379f5e
+          name: ""
+          type: namespace
+          rule: voidnetwork.cloud
+          enable: true
+        - id: 7c217735
+          name: ""
+          type: namespace
+          rule: vot-tak.tv
+          enable: true
+        - id: c8fce232
+          name: ""
+          type: namespace
+          rule: vroid.com
+          enable: true
+        - id: 6ed624a0
+          name: ""
+          type: namespace
+          rule: vrv.co
+          enable: true
+        - id: 301ed078
+          name: ""
+          type: namespace
+          rule: wa.me
+          enable: true
+        - id: b2c048f8
+          name: ""
+          type: namespace
+          rule: whatsapp-plus.info
+          enable: true
+        - id: 93fa5de3
+          name: ""
+          type: namespace
+          rule: whatsapp-plus.me
+          enable: true
+        - id: 0097b943
+          name: ""
+          type: namespace
+          rule: whatsapp-plus.net
+          enable: true
+        - id: 249fa73f
+          name: ""
+          type: namespace
+          rule: whatsapp.biz
+          enable: true
+        - id: 1aa896c9
+          name: ""
+          type: namespace
+          rule: whatsapp.cc
+          enable: true
+        - id: e52118e7
+          name: ""
+          type: namespace
+          rule: whatsapp.com
+          enable: true
+        - id: 17ebb5ea
+          name: ""
+          type: namespace
+          rule: whatsapp.info
+          enable: true
+        - id: b6c5ead9
+          name: ""
+          type: namespace
+          rule: whatsapp.net
+          enable: true
+        - id: "61172764"
+          name: ""
+          type: namespace
+          rule: whatsapp.org
+          enable: true
+        - id: 3f4ad57d
+          name: ""
+          type: namespace
+          rule: whatsapp.tv
+          enable: true
+        - id: b478386b
+          name: ""
+          type: namespace
+          rule: whatsappbrand.com
+          enable: true
+        - id: 3d562f2d
+          name: ""
+          type: namespace
+          rule: whispersystems.org
+          enable: true
+        - id: 420e8736
+          name: ""
+          type: namespace
+          rule: whoop.com
+          enable: true
+        - id: 9cdba088
+          name: ""
+          type: namespace
+          rule: wikiart.org
+          enable: true
+        - id: 19f7d28c
+          name: ""
+          type: namespace
+          rule: withyoutube.com
+          enable: true
+        - id: 3558a694
+          name: ""
+          type: namespace
+          rule: wixmp.com
+          enable: true
+        - id: fa8cd144
+          name: ""
+          type: namespace
+          rule: wl.co
+          enable: true
+        - id: 459df6a8
+          name: ""
+          type: namespace
+          rule: worldfcdn.com
+          enable: true
+        - id: c662471d
+          name: ""
+          type: namespace
+          rule: worldfcdn2.com
+          enable: true
+        - id: 14c7ca3b
+          name: ""
+          type: namespace
+          rule: wstracker.online
+          enable: true
+        - id: 12b377ae
+          name: ""
+          type: namespace
+          rule: x.ai
+          enable: true
+        - id: f8a3a06d
+          name: ""
+          type: namespace
+          rule: x.com
+          enable: true
+        - id: d474a7a5
+          name: ""
+          type: namespace
+          rule: xhamster.com
+          enable: true
+        - id: c83a7ae9
+          name: ""
+          type: namespace
+          rule: xhamsterlive.com
+          enable: true
+        - id: e3f1e3c9
+          name: ""
+          type: namespace
+          rule: xhcdn.com
+          enable: true
+        - id: 7abee4a7
+          name: ""
+          type: namespace
+          rule: xnxx-cdn.com
+          enable: true
+        - id: 90e1065a
+          name: ""
+          type: namespace
+          rule: xnxx-ru.com
+          enable: true
+        - id: 7f5e8402
+          name: ""
+          type: namespace
+          rule: xnxx.com
+          enable: true
+        - id: 282e2f7c
+          name: ""
+          type: namespace
+          rule: xv-ru.com
+          enable: true
+        - id: 427af680
+          name: ""
+          type: namespace
+          rule: xvideos-cdn.com
+          enable: true
+        - id: d3b9f0cd
+          name: ""
+          type: namespace
+          rule: xvideos.com
+          enable: true
+        - id: "28294602"
+          name: ""
+          type: namespace
+          rule: yandexwebcache.org
+          enable: true
+        - id: 1085ee96
+          name: ""
+          type: namespace
+          rule: youmakethegame.com
+          enable: true
+        - id: 31437cae
+          name: ""
+          type: namespace
+          rule: youmakethegames.com
+          enable: true
+        - id: 7a8a4af4
+          name: ""
+          type: namespace
+          rule: younettranslate.com
+          enable: true
+        - id: 91a04806
+          name: ""
+          type: namespace
+          rule: youtu.be
+          enable: true
+        - id: a592ac9a
+          name: ""
+          type: namespace
+          rule: youtube-nocookie.com
+          enable: true
+        - id: 6cf2ab63
+          name: ""
+          type: namespace
+          rule: youtube.ae
+          enable: true
+        - id: 39dfb580
+          name: ""
+          type: namespace
+          rule: youtube.al
+          enable: true
+        - id: cff2714d
+          name: ""
+          type: namespace
+          rule: youtube.am
+          enable: true
+        - id: d4c16a8f
+          name: ""
+          type: namespace
+          rule: youtube.at
+          enable: true
+        - id: 550d5b8c
+          name: ""
+          type: namespace
+          rule: youtube.az
+          enable: true
+        - id: 0d9497eb
+          name: ""
+          type: namespace
+          rule: youtube.ba
+          enable: true
+        - id: 53219c6f
+          name: ""
+          type: namespace
+          rule: youtube.be
+          enable: true
+        - id: 80b61926
+          name: ""
+          type: namespace
+          rule: youtube.bg
+          enable: true
+        - id: 42575dbe
+          name: ""
+          type: namespace
+          rule: youtube.bh
+          enable: true
+        - id: c92b0ca5
+          name: ""
+          type: namespace
+          rule: youtube.bo
+          enable: true
+        - id: 2ba2d825
+          name: ""
+          type: namespace
+          rule: youtube.by
+          enable: true
+        - id: 450c0937
+          name: ""
+          type: namespace
+          rule: youtube.ca
+          enable: true
+        - id: 7165adb4
+          name: ""
+          type: namespace
+          rule: youtube.cat
+          enable: true
+        - id: 9acf0b4d
+          name: ""
+          type: namespace
+          rule: youtube.ch
+          enable: true
+        - id: c1c84fa0
+          name: ""
+          type: namespace
+          rule: youtube.cl
+          enable: true
+        - id: 6a397a32
+          name: ""
+          type: namespace
+          rule: youtube.co
+          enable: true
+        - id: d1983c00
+          name: ""
+          type: namespace
+          rule: youtube.co.ae
+          enable: true
+        - id: 5feff775
+          name: ""
+          type: namespace
+          rule: youtube.co.at
+          enable: true
+        - id: 1818acd7
+          name: ""
+          type: namespace
+          rule: youtube.co.cr
+          enable: true
+        - id: e2ddb38f
+          name: ""
+          type: namespace
+          rule: youtube.co.hu
+          enable: true
+        - id: 4c479984
+          name: ""
+          type: namespace
+          rule: youtube.co.id
+          enable: true
+        - id: 4c67a9d1
+          name: ""
+          type: namespace
+          rule: youtube.co.il
+          enable: true
+        - id: 4e89f9d0
+          name: ""
+          type: namespace
+          rule: youtube.co.in
+          enable: true
+        - id: 862e3980
+          name: ""
+          type: namespace
+          rule: youtube.co.jp
+          enable: true
+        - id: f0ea2254
+          name: ""
+          type: namespace
+          rule: youtube.co.ke
+          enable: true
+        - id: af5d03ea
+          name: ""
+          type: namespace
+          rule: youtube.co.kr
+          enable: true
+        - id: ca3e87a0
+          name: ""
+          type: namespace
+          rule: youtube.co.ma
+          enable: true
+        - id: 7098b84f
+          name: ""
+          type: namespace
+          rule: youtube.co.nz
+          enable: true
+        - id: cbad3aeb
+          name: ""
+          type: namespace
+          rule: youtube.co.th
+          enable: true
+        - id: b52f221e
+          name: ""
+          type: namespace
+          rule: youtube.co.tz
+          enable: true
+        - id: 953f1813
+          name: ""
+          type: namespace
+          rule: youtube.co.ug
+          enable: true
+        - id: c1f25cf3
+          name: ""
+          type: namespace
+          rule: youtube.co.uk
+          enable: true
+        - id: c40f1510
+          name: ""
+          type: namespace
+          rule: youtube.co.ve
+          enable: true
+        - id: 8f151e1d
+          name: ""
+          type: namespace
+          rule: youtube.co.za
+          enable: true
+        - id: 1bd06bc5
+          name: ""
+          type: namespace
+          rule: youtube.co.zw
+          enable: true
+        - id: 27526bb2
+          name: ""
+          type: namespace
+          rule: youtube.com
+          enable: true
+        - id: 032b5ebc
+          name: ""
+          type: namespace
+          rule: youtube.com.ar
+          enable: true
+        - id: 8fd064d8
+          name: ""
+          type: namespace
+          rule: youtube.com.au
+          enable: true
+        - id: c1dda939
+          name: ""
+          type: namespace
+          rule: youtube.com.az
+          enable: true
+        - id: cca65526
+          name: ""
+          type: namespace
+          rule: youtube.com.bd
+          enable: true
+        - id: c1b61243
+          name: ""
+          type: namespace
+          rule: youtube.com.bh
+          enable: true
+        - id: 9c3ccfab
+          name: ""
+          type: namespace
+          rule: youtube.com.bo
+          enable: true
+        - id: 925c1310
+          name: ""
+          type: namespace
+          rule: youtube.com.br
+          enable: true
+        - id: 7e2bb32f
+          name: ""
+          type: namespace
+          rule: youtube.com.by
+          enable: true
+        - id: 2259e846
+          name: ""
+          type: namespace
+          rule: youtube.com.co
+          enable: true
+        - id: 8ba8bd19
+          name: ""
+          type: namespace
+          rule: youtube.com.do
+          enable: true
+        - id: 1e57df3e
+          name: ""
+          type: namespace
+          rule: youtube.com.ec
+          enable: true
+        - id: ed1e1d52
+          name: ""
+          type: namespace
+          rule: youtube.com.ee
+          enable: true
+        - id: 452a25a2
+          name: ""
+          type: namespace
+          rule: youtube.com.eg
+          enable: true
+        - id: 55dbfba2
+          name: ""
+          type: namespace
+          rule: youtube.com.es
+          enable: true
+        - id: "60870395"
+          name: ""
+          type: namespace
+          rule: youtube.com.gh
+          enable: true
+        - id: 6420a4b2
+          name: ""
+          type: namespace
+          rule: youtube.com.gr
+          enable: true
+        - id: 8677202b
+          name: ""
+          type: namespace
+          rule: youtube.com.gt
+          enable: true
+        - id: 74e110cf
+          name: ""
+          type: namespace
+          rule: youtube.com.hk
+          enable: true
+        - id: b30f318b
+          name: ""
+          type: namespace
+          rule: youtube.com.hn
+          enable: true
+        - id: da63db60
+          name: ""
+          type: namespace
+          rule: youtube.com.hr
+          enable: true
+        - id: 15d93fae
+          name: ""
+          type: namespace
+          rule: youtube.com.jm
+          enable: true
+        - id: 614f5457
+          name: ""
+          type: namespace
+          rule: youtube.com.jo
+          enable: true
+        - id: 2cb86faf
+          name: ""
+          type: namespace
+          rule: youtube.com.kw
+          enable: true
+        - id: 3105c2f6
+          name: ""
+          type: namespace
+          rule: youtube.com.lb
+          enable: true
+        - id: 8ba93eda
+          name: ""
+          type: namespace
+          rule: youtube.com.lv
+          enable: true
+        - id: "49782912"
+          name: ""
+          type: namespace
+          rule: youtube.com.ly
+          enable: true
+        - id: 3311d124
+          name: ""
+          type: namespace
+          rule: youtube.com.mk
+          enable: true
+        - id: bc9f9c48
+          name: ""
+          type: namespace
+          rule: youtube.com.mt
+          enable: true
+        - id: 05b9a9eb
+          name: ""
+          type: namespace
+          rule: youtube.com.mx
+          enable: true
+        - id: 174cf83a
+          name: ""
+          type: namespace
+          rule: youtube.com.my
+          enable: true
+        - id: 2e9b1afe
+          name: ""
+          type: namespace
+          rule: youtube.com.ng
+          enable: true
+        - id: 7f548383
+          name: ""
+          type: namespace
+          rule: youtube.com.ni
+          enable: true
+        - id: e278cc65
+          name: ""
+          type: namespace
+          rule: youtube.com.om
+          enable: true
+        - id: f1c60e20
+          name: ""
+          type: namespace
+          rule: youtube.com.pa
+          enable: true
+        - id: 1d1a1371
+          name: ""
+          type: namespace
+          rule: youtube.com.pe
+          enable: true
+        - id: 4f07bc75
+          name: ""
+          type: namespace
+          rule: youtube.com.ph
+          enable: true
+        - id: 0c893b9b
+          name: ""
+          type: namespace
+          rule: youtube.com.pk
+          enable: true
+        - id: 2ac592bb
+          name: ""
+          type: namespace
+          rule: youtube.com.pt
+          enable: true
+        - id: 06e619e7
+          name: ""
+          type: namespace
+          rule: youtube.com.py
+          enable: true
+        - id: 23204ecb
+          name: ""
+          type: namespace
+          rule: youtube.com.qa
+          enable: true
+        - id: 37231b7e
+          name: ""
+          type: namespace
+          rule: youtube.com.ro
+          enable: true
+        - id: "70120297"
+          name: ""
+          type: namespace
+          rule: youtube.com.sa
+          enable: true
+        - id: 4ec14473
+          name: ""
+          type: namespace
+          rule: youtube.com.sg
+          enable: true
+        - id: 524f171c
+          name: ""
+          type: namespace
+          rule: youtube.com.sv
+          enable: true
+        - id: cd5cd63b
+          name: ""
+          type: namespace
+          rule: youtube.com.tn
+          enable: true
+        - id: "29094393"
+          name: ""
+          type: namespace
+          rule: youtube.com.tr
+          enable: true
+        - id: 201d1649
+          name: ""
+          type: namespace
+          rule: youtube.com.tw
+          enable: true
+        - id: 989ec971
+          name: ""
+          type: namespace
+          rule: youtube.com.ua
+          enable: true
+        - id: 2df28df8
+          name: ""
+          type: namespace
+          rule: youtube.com.uy
+          enable: true
+        - id: 014484c9
+          name: ""
+          type: namespace
+          rule: youtube.com.ve
+          enable: true
+        - id: 4f13fe26
+          name: ""
+          type: namespace
+          rule: youtube.cr
+          enable: true
+        - id: 9813dabd
+          name: ""
+          type: namespace
+          rule: youtube.cz
+          enable: true
+        - id: bc1dcda0
+          name: ""
+          type: namespace
+          rule: youtube.de
+          enable: true
+        - id: c83fb469
+          name: ""
+          type: namespace
+          rule: youtube.dk
+          enable: true
+        - id: bdb97601
+          name: ""
+          type: namespace
+          rule: youtube.ee
+          enable: true
+        - id: 819243d2
+          name: ""
+          type: namespace
+          rule: youtube.es
+          enable: true
+        - id: 570f1142
+          name: ""
+          type: namespace
+          rule: youtube.fi
+          enable: true
+        - id: f8cfd0b2
+          name: ""
+          type: namespace
+          rule: youtube.fr
+          enable: true
+        - id: c1b4ffd6
+          name: ""
+          type: namespace
+          rule: youtube.ge
+          enable: true
+        - id: 5ea8e5a8
+          name: ""
+          type: namespace
+          rule: youtube.gr
+          enable: true
+        - id: 82e5f765
+          name: ""
+          type: namespace
+          rule: youtube.gt
+          enable: true
+        - id: 8801d176
+          name: ""
+          type: namespace
+          rule: youtube.hk
+          enable: true
+        - id: 7175d30b
+          name: ""
+          type: namespace
+          rule: youtube.hr
+          enable: true
+        - id: a8f8ba52
+          name: ""
+          type: namespace
+          rule: youtube.hu
+          enable: true
+        - id: 64c6fe03
+          name: ""
+          type: namespace
+          rule: youtube.ie
+          enable: true
+        - id: 97916d13
+          name: ""
+          type: namespace
+          rule: youtube.in
+          enable: true
+        - id: d3db7bb3
+          name: ""
+          type: namespace
+          rule: youtube.iq
+          enable: true
+        - id: cdbf4489
+          name: ""
+          type: namespace
+          rule: youtube.is
+          enable: true
+        - id: fa654d3b
+          name: ""
+          type: namespace
+          rule: youtube.it
+          enable: true
+        - id: c4079632
+          name: ""
+          type: namespace
+          rule: youtube.jo
+          enable: true
+        - id: 6ad8387e
+          name: ""
+          type: namespace
+          rule: youtube.jp
+          enable: true
+        - id: c425f826
+          name: ""
+          type: namespace
+          rule: youtube.kr
+          enable: true
+        - id: fc1b8ed7
+          name: ""
+          type: namespace
+          rule: youtube.kz
+          enable: true
+        - id: 710fd9d7
+          name: ""
+          type: namespace
+          rule: youtube.la
+          enable: true
+        - id: 4bb7fc60
+          name: ""
+          type: namespace
+          rule: youtube.lk
+          enable: true
+        - id: acff68b2
+          name: ""
+          type: namespace
+          rule: youtube.lt
+          enable: true
+        - id: 45a0674e
+          name: ""
+          type: namespace
+          rule: youtube.lu
+          enable: true
+        - id: f0d29e52
+          name: ""
+          type: namespace
+          rule: youtube.lv
+          enable: true
+        - id: 1d1da848
+          name: ""
+          type: namespace
+          rule: youtube.ly
+          enable: true
+        - id: 5fea96f5
+          name: ""
+          type: namespace
+          rule: youtube.ma
+          enable: true
+        - id: fac32ee6
+          name: ""
+          type: namespace
+          rule: youtube.md
+          enable: true
+        - id: 25f36987
+          name: ""
+          type: namespace
+          rule: youtube.me
+          enable: true
+        - id: 47b99351
+          name: ""
+          type: namespace
+          rule: youtube.mk
+          enable: true
+        - id: 88a42b38
+          name: ""
+          type: namespace
+          rule: youtube.mn
+          enable: true
+        - id: c77c72ff
+          name: ""
+          type: namespace
+          rule: youtube.mx
+          enable: true
+        - id: 1223b827
+          name: ""
+          type: namespace
+          rule: youtube.my
+          enable: true
+        - id: f51065fd
+          name: ""
+          type: namespace
+          rule: youtube.ng
+          enable: true
+        - id: dabfc768
+          name: ""
+          type: namespace
+          rule: youtube.ni
+          enable: true
+        - id: 5e865399
+          name: ""
+          type: namespace
+          rule: youtube.nl
+          enable: true
+        - id: 9127e34c
+          name: ""
+          type: namespace
+          rule: youtube.no
+          enable: true
+        - id: 9c81e50f
+          name: ""
+          type: namespace
+          rule: youtube.pa
+          enable: true
+        - id: 041e9083
+          name: ""
+          type: namespace
+          rule: youtube.pe
+          enable: true
+        - id: c6a6f7b1
+          name: ""
+          type: namespace
+          rule: youtube.ph
+          enable: true
+        - id: 6b9ac50a
+          name: ""
+          type: namespace
+          rule: youtube.pk
+          enable: true
+        - id: 377b068d
+          name: ""
+          type: namespace
+          rule: youtube.pl
+          enable: true
+        - id: f4f2e3bc
+          name: ""
+          type: namespace
+          rule: youtube.pr
+          enable: true
+        - id: 412dfa4c
+          name: ""
+          type: namespace
+          rule: youtube.pt
+          enable: true
+        - id: 30e88bc0
+          name: ""
+          type: namespace
+          rule: youtube.qa
+          enable: true
+        - id: f8d70c76
+          name: ""
+          type: namespace
+          rule: youtube.ro
+          enable: true
+        - id: 0ce98263
+          name: ""
+          type: namespace
+          rule: youtube.rs
+          enable: true
+        - id: "093941e6"
+          name: ""
+          type: namespace
+          rule: youtube.ru
+          enable: true
+        - id: 642d487d
+          name: ""
+          type: namespace
+          rule: youtube.sa
+          enable: true
+        - id: 19bb228e
+          name: ""
+          type: namespace
+          rule: youtube.se
+          enable: true
+        - id: 41530d4a
+          name: ""
+          type: namespace
+          rule: youtube.sg
+          enable: true
+        - id: b77652cb
+          name: ""
+          type: namespace
+          rule: youtube.si
+          enable: true
+        - id: "87727685"
+          name: ""
+          type: namespace
+          rule: youtube.sk
+          enable: true
+        - id: a24df53d
+          name: ""
+          type: namespace
+          rule: youtube.sn
+          enable: true
+        - id: ea47001b
+          name: ""
+          type: namespace
+          rule: youtube.soy
+          enable: true
+        - id: 9949271b
+          name: ""
+          type: namespace
+          rule: youtube.sv
+          enable: true
+        - id: bb4e3573
+          name: ""
+          type: namespace
+          rule: youtube.tn
+          enable: true
+        - id: 9c6a797f
+          name: ""
+          type: namespace
+          rule: youtube.tv
+          enable: true
+        - id: 3bd7d38f
+          name: ""
+          type: namespace
+          rule: youtube.ua
+          enable: true
+        - id: 4f8c9847
+          name: ""
+          type: namespace
+          rule: youtube.ug
+          enable: true
+        - id: d91d4bb6
+          name: ""
+          type: namespace
+          rule: youtube.uy
+          enable: true
+        - id: cefc8622
+          name: ""
+          type: namespace
+          rule: youtube.vn
+          enable: true
+        - id: 337b03cb
+          name: ""
+          type: namespace
+          rule: youtubeeducation.com
+          enable: true
+        - id: ea98540c
+          name: ""
+          type: namespace
+          rule: youtubefanfest.com
+          enable: true
+        - id: 22c121c0
+          name: ""
+          type: namespace
+          rule: youtubegaming.com
+          enable: true
+        - id: e4b598e8
+          name: ""
+          type: namespace
+          rule: youtubego.co.id
+          enable: true
+        - id: d4a71e9b
+          name: ""
+          type: namespace
+          rule: youtubego.co.in
+          enable: true
+        - id: 6759a5df
+          name: ""
+          type: namespace
+          rule: youtubego.com
+          enable: true
+        - id: 9067ea73
+          name: ""
+          type: namespace
+          rule: youtubego.com.br
+          enable: true
+        - id: e6485e94
+          name: ""
+          type: namespace
+          rule: youtubego.id
+          enable: true
+        - id: 5d94cc1a
+          name: ""
+          type: namespace
+          rule: youtubego.in
+          enable: true
+        - id: b77057e6
+          name: ""
+          type: namespace
+          rule: youtubekids.com
+          enable: true
+        - id: df686bce
+          name: ""
+          type: namespace
+          rule: youtubemobilesupport.com
+          enable: true
+        - id: 15d52b1e
+          name: ""
+          type: namespace
+          rule: ysagin.top
+          enable: true
+        - id: f08928dd
+          name: ""
+          type: namespace
+          rule: yt.be
+          enable: true
+        - id: a9bc855e
+          name: ""
+          type: namespace
+          rule: ytimg.com
+          enable: true
+        - id: 46e82cc3
+          name: ""
+          type: namespace
+          rule: yummyanime.tv
+          enable: true
+        - id: 139d03d0
+          name: ""
+          type: namespace
+          rule: zapier-deployment.com
+          enable: true
+        - id: 64b5f6a8
+          name: ""
+          type: namespace
+          rule: zapier.com
+          enable: true
+        - id: 57e42c1d
+          name: ""
+          type: namespace
+          rule: zeflix.online
+          enable: true
+        - id: 45f353ae
+          name: ""
+          type: namespace
+          rule: zello.com
+          enable: true
+        - id: 7e6ea626
+          name: ""
+          type: namespace
+          rule: zendesk.com
+          enable: true
+        - id: ad755a4f
+          name: ""
+          type: namespace
+          rule: zetimage.net
+          enable: true
+        - id: 71bc1293
+          name: ""
+          type: namespace
+          rule: znanija.com
+          enable: true
+        - id: fee35172
+          name: ""
+          type: namespace
+          rule: zona.media
+          enable: true
     - id: 0d0215b7
       name: Google
       color: '#20202c'
@@ -2637,12 +6623,903 @@ groups:
           type: subnet
           rule: 223.29.216.0/22
           enable: true
+    - id: f65c699a
+      name: YouTube (domains)
+      color: '#20202c'
+      interface: awg0
+      enable: false
+      rules:
+        - id: b574a948
+          name: ""
+          type: namespace
+          rule: ggpht.cn
+          enable: true
+        - id: "54632768"
+          name: ""
+          type: namespace
+          rule: ggpht.com
+          enable: true
+        - id: 01803bda
+          name: ""
+          type: namespace
+          rule: google.com
+          enable: true
+        - id: 195d843f
+          name: ""
+          type: namespace
+          rule: googleapis.com
+          enable: true
+        - id: 067ea0cc
+          name: ""
+          type: namespace
+          rule: googleusercontent.com
+          enable: true
+        - id: 85be0512
+          name: ""
+          type: namespace
+          rule: googlevideo.com
+          enable: true
+        - id: 0069012a
+          name: ""
+          type: namespace
+          rule: gstatic.com
+          enable: true
+        - id: 93eaad27
+          name: ""
+          type: namespace
+          rule: gvt1.com
+          enable: true
+        - id: 7714c0c5
+          name: ""
+          type: namespace
+          rule: returnyoutubedislikeapi.com
+          enable: true
+        - id: 61d7033f
+          name: ""
+          type: namespace
+          rule: withyoutube.com
+          enable: true
+        - id: 063c9732
+          name: ""
+          type: namespace
+          rule: youtu.be
+          enable: true
+        - id: "31116553"
+          name: ""
+          type: namespace
+          rule: youtube-nocookie.com
+          enable: true
+        - id: 292bb4fe
+          name: ""
+          type: namespace
+          rule: youtube.ae
+          enable: true
+        - id: da429356
+          name: ""
+          type: namespace
+          rule: youtube.al
+          enable: true
+        - id: 7801c4ad
+          name: ""
+          type: namespace
+          rule: youtube.am
+          enable: true
+        - id: 05f94189
+          name: ""
+          type: namespace
+          rule: youtube.at
+          enable: true
+        - id: 40a07e78
+          name: ""
+          type: namespace
+          rule: youtube.az
+          enable: true
+        - id: dc9eae7e
+          name: ""
+          type: namespace
+          rule: youtube.ba
+          enable: true
+        - id: 9d94c1e0
+          name: ""
+          type: namespace
+          rule: youtube.be
+          enable: true
+        - id: f86f731a
+          name: ""
+          type: namespace
+          rule: youtube.bg
+          enable: true
+        - id: 65be8e2b
+          name: ""
+          type: namespace
+          rule: youtube.bh
+          enable: true
+        - id: 1b6e487e
+          name: ""
+          type: namespace
+          rule: youtube.bo
+          enable: true
+        - id: 6db1bb47
+          name: ""
+          type: namespace
+          rule: youtube.by
+          enable: true
+        - id: a3326819
+          name: ""
+          type: namespace
+          rule: youtube.ca
+          enable: true
+        - id: 365cd634
+          name: ""
+          type: namespace
+          rule: youtube.cat
+          enable: true
+        - id: 8d40067f
+          name: ""
+          type: namespace
+          rule: youtube.ch
+          enable: true
+        - id: abee5b37
+          name: ""
+          type: namespace
+          rule: youtube.cl
+          enable: true
+        - id: ff5a2327
+          name: ""
+          type: namespace
+          rule: youtube.co
+          enable: true
+        - id: 2e6cb99f
+          name: ""
+          type: namespace
+          rule: youtube.co.ae
+          enable: true
+        - id: fb1293c4
+          name: ""
+          type: namespace
+          rule: youtube.co.at
+          enable: true
+        - id: 352ec4a6
+          name: ""
+          type: namespace
+          rule: youtube.co.cr
+          enable: true
+        - id: 4807c119
+          name: ""
+          type: namespace
+          rule: youtube.co.hu
+          enable: true
+        - id: 4deb641d
+          name: ""
+          type: namespace
+          rule: youtube.co.id
+          enable: true
+        - id: ae15c942
+          name: ""
+          type: namespace
+          rule: youtube.co.il
+          enable: true
+        - id: b8b77979
+          name: ""
+          type: namespace
+          rule: youtube.co.in
+          enable: true
+        - id: 2eb7b4b9
+          name: ""
+          type: namespace
+          rule: youtube.co.jp
+          enable: true
+        - id: d25b335e
+          name: ""
+          type: namespace
+          rule: youtube.co.ke
+          enable: true
+        - id: 5f39bd5b
+          name: ""
+          type: namespace
+          rule: youtube.co.kr
+          enable: true
+        - id: 560dc7ae
+          name: ""
+          type: namespace
+          rule: youtube.co.ma
+          enable: true
+        - id: 59927c93
+          name: ""
+          type: namespace
+          rule: youtube.co.nz
+          enable: true
+        - id: c0c1de4c
+          name: ""
+          type: namespace
+          rule: youtube.co.th
+          enable: true
+        - id: b4d5fc3e
+          name: ""
+          type: namespace
+          rule: youtube.co.tz
+          enable: true
+        - id: de3d26a0
+          name: ""
+          type: namespace
+          rule: youtube.co.ug
+          enable: true
+        - id: d276a6a3
+          name: ""
+          type: namespace
+          rule: youtube.co.uk
+          enable: true
+        - id: a772c006
+          name: ""
+          type: namespace
+          rule: youtube.co.ve
+          enable: true
+        - id: "42111448"
+          name: ""
+          type: namespace
+          rule: youtube.co.za
+          enable: true
+        - id: 1c5c34fe
+          name: ""
+          type: namespace
+          rule: youtube.co.zw
+          enable: true
+        - id: 2c2536be
+          name: ""
+          type: namespace
+          rule: youtube.com
+          enable: true
+        - id: d18497dd
+          name: ""
+          type: namespace
+          rule: youtube.com.ar
+          enable: true
+        - id: 9b5154f6
+          name: ""
+          type: namespace
+          rule: youtube.com.au
+          enable: true
+        - id: d903d697
+          name: ""
+          type: namespace
+          rule: youtube.com.az
+          enable: true
+        - id: 06ac5a43
+          name: ""
+          type: namespace
+          rule: youtube.com.bd
+          enable: true
+        - id: 7cddf9a8
+          name: ""
+          type: namespace
+          rule: youtube.com.bh
+          enable: true
+        - id: 424aa78f
+          name: ""
+          type: namespace
+          rule: youtube.com.bo
+          enable: true
+        - id: 85e26d51
+          name: ""
+          type: namespace
+          rule: youtube.com.br
+          enable: true
+        - id: 58ca4b2a
+          name: ""
+          type: namespace
+          rule: youtube.com.by
+          enable: true
+        - id: 3e958ada
+          name: ""
+          type: namespace
+          rule: youtube.com.co
+          enable: true
+        - id: 5e0b0d49
+          name: ""
+          type: namespace
+          rule: youtube.com.do
+          enable: true
+        - id: c41f1442
+          name: ""
+          type: namespace
+          rule: youtube.com.ec
+          enable: true
+        - id: 6c7b7074
+          name: ""
+          type: namespace
+          rule: youtube.com.ee
+          enable: true
+        - id: d2c951be
+          name: ""
+          type: namespace
+          rule: youtube.com.eg
+          enable: true
+        - id: 0d62c0cf
+          name: ""
+          type: namespace
+          rule: youtube.com.es
+          enable: true
+        - id: 5b840152
+          name: ""
+          type: namespace
+          rule: youtube.com.gh
+          enable: true
+        - id: 575fa4a5
+          name: ""
+          type: namespace
+          rule: youtube.com.gr
+          enable: true
+        - id: 8a32bd85
+          name: ""
+          type: namespace
+          rule: youtube.com.gt
+          enable: true
+        - id: 33af3910
+          name: ""
+          type: namespace
+          rule: youtube.com.hk
+          enable: true
+        - id: 74f8e28a
+          name: ""
+          type: namespace
+          rule: youtube.com.hn
+          enable: true
+        - id: 4c41f610
+          name: ""
+          type: namespace
+          rule: youtube.com.hr
+          enable: true
+        - id: 17dd0fb5
+          name: ""
+          type: namespace
+          rule: youtube.com.jm
+          enable: true
+        - id: 5568035a
+          name: ""
+          type: namespace
+          rule: youtube.com.jo
+          enable: true
+        - id: f65db4e7
+          name: ""
+          type: namespace
+          rule: youtube.com.kw
+          enable: true
+        - id: d6fbbae2
+          name: ""
+          type: namespace
+          rule: youtube.com.lb
+          enable: true
+        - id: 979bb148
+          name: ""
+          type: namespace
+          rule: youtube.com.lv
+          enable: true
+        - id: 6ec901d5
+          name: ""
+          type: namespace
+          rule: youtube.com.ly
+          enable: true
+        - id: bc321c28
+          name: ""
+          type: namespace
+          rule: youtube.com.mk
+          enable: true
+        - id: 58c410a7
+          name: ""
+          type: namespace
+          rule: youtube.com.mt
+          enable: true
+        - id: 958b4115
+          name: ""
+          type: namespace
+          rule: youtube.com.mx
+          enable: true
+        - id: a81b8551
+          name: ""
+          type: namespace
+          rule: youtube.com.my
+          enable: true
+        - id: c227c428
+          name: ""
+          type: namespace
+          rule: youtube.com.ng
+          enable: true
+        - id: d1be5979
+          name: ""
+          type: namespace
+          rule: youtube.com.ni
+          enable: true
+        - id: 3effe2d8
+          name: ""
+          type: namespace
+          rule: youtube.com.om
+          enable: true
+        - id: 551a6c5e
+          name: ""
+          type: namespace
+          rule: youtube.com.pa
+          enable: true
+        - id: 3e046525
+          name: ""
+          type: namespace
+          rule: youtube.com.pe
+          enable: true
+        - id: 542e48b1
+          name: ""
+          type: namespace
+          rule: youtube.com.ph
+          enable: true
+        - id: 630d9f71
+          name: ""
+          type: namespace
+          rule: youtube.com.pk
+          enable: true
+        - id: 7a308399
+          name: ""
+          type: namespace
+          rule: youtube.com.pt
+          enable: true
+        - id: 73d716d3
+          name: ""
+          type: namespace
+          rule: youtube.com.py
+          enable: true
+        - id: 53f850e1
+          name: ""
+          type: namespace
+          rule: youtube.com.qa
+          enable: true
+        - id: aa50b1d0
+          name: ""
+          type: namespace
+          rule: youtube.com.ro
+          enable: true
+        - id: 535fbe00
+          name: ""
+          type: namespace
+          rule: youtube.com.sa
+          enable: true
+        - id: 429b8d37
+          name: ""
+          type: namespace
+          rule: youtube.com.sg
+          enable: true
+        - id: 29ba2f7d
+          name: ""
+          type: namespace
+          rule: youtube.com.sv
+          enable: true
+        - id: 51745f6c
+          name: ""
+          type: namespace
+          rule: youtube.com.tn
+          enable: true
+        - id: c68364ed
+          name: ""
+          type: namespace
+          rule: youtube.com.tr
+          enable: true
+        - id: "80272309"
+          name: ""
+          type: namespace
+          rule: youtube.com.tw
+          enable: true
+        - id: b56e0a96
+          name: ""
+          type: namespace
+          rule: youtube.com.ua
+          enable: true
+        - id: 0cd0d0fe
+          name: ""
+          type: namespace
+          rule: youtube.com.uy
+          enable: true
+        - id: 565e4411
+          name: ""
+          type: namespace
+          rule: youtube.com.ve
+          enable: true
+        - id: 7a62fef1
+          name: ""
+          type: namespace
+          rule: youtube.cr
+          enable: true
+        - id: eafa9585
+          name: ""
+          type: namespace
+          rule: youtube.cz
+          enable: true
+        - id: bfd4f5c5
+          name: ""
+          type: namespace
+          rule: youtube.de
+          enable: true
+        - id: 2c17cd67
+          name: ""
+          type: namespace
+          rule: youtube.dk
+          enable: true
+        - id: de9b8aa1
+          name: ""
+          type: namespace
+          rule: youtube.ee
+          enable: true
+        - id: 8606522c
+          name: ""
+          type: namespace
+          rule: youtube.es
+          enable: true
+        - id: 1d224b0d
+          name: ""
+          type: namespace
+          rule: youtube.fi
+          enable: true
+        - id: 4a496a5c
+          name: ""
+          type: namespace
+          rule: youtube.fr
+          enable: true
+        - id: 2a7f6105
+          name: ""
+          type: namespace
+          rule: youtube.ge
+          enable: true
+        - id: 6f797e3e
+          name: ""
+          type: namespace
+          rule: youtube.gr
+          enable: true
+        - id: 4127cbf3
+          name: ""
+          type: namespace
+          rule: youtube.gt
+          enable: true
+        - id: 3f8ce704
+          name: ""
+          type: namespace
+          rule: youtube.hk
+          enable: true
+        - id: 157262c2
+          name: ""
+          type: namespace
+          rule: youtube.hr
+          enable: true
+        - id: 7de76d31
+          name: ""
+          type: namespace
+          rule: youtube.hu
+          enable: true
+        - id: c80b7fff
+          name: ""
+          type: namespace
+          rule: youtube.ie
+          enable: true
+        - id: f68139fa
+          name: ""
+          type: namespace
+          rule: youtube.in
+          enable: true
+        - id: 884c551e
+          name: ""
+          type: namespace
+          rule: youtube.iq
+          enable: true
+        - id: 08f2821e
+          name: ""
+          type: namespace
+          rule: youtube.is
+          enable: true
+        - id: 95c3e011
+          name: ""
+          type: namespace
+          rule: youtube.it
+          enable: true
+        - id: d229a3cf
+          name: ""
+          type: namespace
+          rule: youtube.jo
+          enable: true
+        - id: 035f7080
+          name: ""
+          type: namespace
+          rule: youtube.jp
+          enable: true
+        - id: 3976dffd
+          name: ""
+          type: namespace
+          rule: youtube.kr
+          enable: true
+        - id: fc4dcb1a
+          name: ""
+          type: namespace
+          rule: youtube.kz
+          enable: true
+        - id: fcb64817
+          name: ""
+          type: namespace
+          rule: youtube.la
+          enable: true
+        - id: 87d81edb
+          name: ""
+          type: namespace
+          rule: youtube.lk
+          enable: true
+        - id: 8cb0f97c
+          name: ""
+          type: namespace
+          rule: youtube.lt
+          enable: true
+        - id: 37d43fe7
+          name: ""
+          type: namespace
+          rule: youtube.lu
+          enable: true
+        - id: d88c5d69
+          name: ""
+          type: namespace
+          rule: youtube.lv
+          enable: true
+        - id: 8e6dea1a
+          name: ""
+          type: namespace
+          rule: youtube.ly
+          enable: true
+        - id: 42b2be20
+          name: ""
+          type: namespace
+          rule: youtube.ma
+          enable: true
+        - id: 75062ae0
+          name: ""
+          type: namespace
+          rule: youtube.md
+          enable: true
+        - id: 04462cbb
+          name: ""
+          type: namespace
+          rule: youtube.me
+          enable: true
+        - id: 2e14d80c
+          name: ""
+          type: namespace
+          rule: youtube.mk
+          enable: true
+        - id: 7ca96131
+          name: ""
+          type: namespace
+          rule: youtube.mn
+          enable: true
+        - id: 5bc4e16e
+          name: ""
+          type: namespace
+          rule: youtube.mx
+          enable: true
+        - id: 190416c0
+          name: ""
+          type: namespace
+          rule: youtube.my
+          enable: true
+        - id: a7929d90
+          name: ""
+          type: namespace
+          rule: youtube.ng
+          enable: true
+        - id: 692fabed
+          name: ""
+          type: namespace
+          rule: youtube.ni
+          enable: true
+        - id: a87cc3b4
+          name: ""
+          type: namespace
+          rule: youtube.nl
+          enable: true
+        - id: 3bbfca0f
+          name: ""
+          type: namespace
+          rule: youtube.no
+          enable: true
+        - id: "52594410"
+          name: ""
+          type: namespace
+          rule: youtube.pa
+          enable: true
+        - id: 5d870bcb
+          name: ""
+          type: namespace
+          rule: youtube.pe
+          enable: true
+        - id: fbd84ca9
+          name: ""
+          type: namespace
+          rule: youtube.ph
+          enable: true
+        - id: 66d44980
+          name: ""
+          type: namespace
+          rule: youtube.pk
+          enable: true
+        - id: 27780eb0
+          name: ""
+          type: namespace
+          rule: youtube.pl
+          enable: true
+        - id: f25214a5
+          name: ""
+          type: namespace
+          rule: youtube.pr
+          enable: true
+        - id: c5546786
+          name: ""
+          type: namespace
+          rule: youtube.pt
+          enable: true
+        - id: dc93f61c
+          name: ""
+          type: namespace
+          rule: youtube.qa
+          enable: true
+        - id: ba304f54
+          name: ""
+          type: namespace
+          rule: youtube.ro
+          enable: true
+        - id: fc4ec9ba
+          name: ""
+          type: namespace
+          rule: youtube.rs
+          enable: true
+        - id: 2c8a0ea1
+          name: ""
+          type: namespace
+          rule: youtube.ru
+          enable: true
+        - id: 5a0e5e54
+          name: ""
+          type: namespace
+          rule: youtube.sa
+          enable: true
+        - id: 42217f54
+          name: ""
+          type: namespace
+          rule: youtube.se
+          enable: true
+        - id: 778ba628
+          name: ""
+          type: namespace
+          rule: youtube.sg
+          enable: true
+        - id: 58e41d0f
+          name: ""
+          type: namespace
+          rule: youtube.si
+          enable: true
+        - id: cd9c85d6
+          name: ""
+          type: namespace
+          rule: youtube.sk
+          enable: true
+        - id: 401af943
+          name: ""
+          type: namespace
+          rule: youtube.sn
+          enable: true
+        - id: 93d3dafd
+          name: ""
+          type: namespace
+          rule: youtube.soy
+          enable: true
+        - id: 0cba529b
+          name: ""
+          type: namespace
+          rule: youtube.sv
+          enable: true
+        - id: e360e3ec
+          name: ""
+          type: namespace
+          rule: youtube.tn
+          enable: true
+        - id: 9ab91e04
+          name: ""
+          type: namespace
+          rule: youtube.tv
+          enable: true
+        - id: 0f9fcf2c
+          name: ""
+          type: namespace
+          rule: youtube.ua
+          enable: true
+        - id: ed833da0
+          name: ""
+          type: namespace
+          rule: youtube.ug
+          enable: true
+        - id: 4d49354b
+          name: ""
+          type: namespace
+          rule: youtube.uy
+          enable: true
+        - id: 56be7948
+          name: ""
+          type: namespace
+          rule: youtube.vn
+          enable: true
+        - id: 0a3516b2
+          name: ""
+          type: namespace
+          rule: youtubeeducation.com
+          enable: true
+        - id: b1fda758
+          name: ""
+          type: namespace
+          rule: youtubefanfest.com
+          enable: true
+        - id: 9c4df8b2
+          name: ""
+          type: namespace
+          rule: youtubegaming.com
+          enable: true
+        - id: a52ee862
+          name: ""
+          type: namespace
+          rule: youtubego.co.id
+          enable: true
+        - id: 77b467a7
+          name: ""
+          type: namespace
+          rule: youtubego.co.in
+          enable: true
+        - id: 6c7cf6c3
+          name: ""
+          type: namespace
+          rule: youtubego.com
+          enable: true
+        - id: 796cbf32
+          name: ""
+          type: namespace
+          rule: youtubego.com.br
+          enable: true
+        - id: 8f032a9b
+          name: ""
+          type: namespace
+          rule: youtubego.id
+          enable: true
+        - id: 0a66147f
+          name: ""
+          type: namespace
+          rule: youtubego.in
+          enable: true
+        - id: 8a875ad5
+          name: ""
+          type: namespace
+          rule: youtubekids.com
+          enable: true
+        - id: eba90c30
+          name: ""
+          type: namespace
+          rule: youtubemobilesupport.com
+          enable: true
+        - id: 1d0c927c
+          name: ""
+          type: namespace
+          rule: yt.be
+          enable: true
+        - id: "73480459"
+          name: ""
+          type: namespace
+          rule: ytimg.com
+          enable: true
     - id: 8e3fef70
       name: Meta
       color: '#20202c'
       interface: awg0
       enable: true
       rules:
+        - id: e2c70c25
+          name: ""
+          type: namespace
+          rule: messenger.com
+          enable: true
         - id: 5fbb0cf9
           name: ""
           type: subnet
@@ -2968,6 +7845,164 @@ groups:
           type: subnet
           rule: 204.15.20.0/22
           enable: true
+    - id: 77deca7c
+      name: Facebook (domains)
+      color: '#20202c'
+      interface: awg0
+      enable: true
+      rules:
+        - id: ffc29881
+          name: ""
+          type: namespace
+          rule: facebook.com
+          enable: true
+        - id: abb450f2
+          name: ""
+          type: namespace
+          rule: facebook.com.es
+          enable: true
+        - id: 4361f97d
+          name: ""
+          type: namespace
+          rule: facebook.com.vn
+          enable: true
+        - id: f5832ae5
+          name: ""
+          type: namespace
+          rule: facebook.fr
+          enable: true
+        - id: a67043fe
+          name: ""
+          type: namespace
+          rule: facebook.net
+          enable: true
+        - id: f60a850d
+          name: ""
+          type: namespace
+          rule: fb.com
+          enable: true
+        - id: "35467221"
+          name: ""
+          type: namespace
+          rule: fb.me
+          enable: true
+        - id: eb9b020f
+          name: ""
+          type: namespace
+          rule: fbcdn.net
+          enable: true
+        - id: 411c8afb
+          name: ""
+          type: namespace
+          rule: fbsbx.com
+          enable: true
+        - id: 722be965
+          name: ""
+          type: namespace
+          rule: licdn.com
+          enable: true
+        - id: 4349b9a7
+          name: ""
+          type: namespace
+          rule: tfbnw.net
+          enable: true
+        - id: 51d8dd24
+          name: ""
+          type: namespace
+          rule: thefacebook.com
+          enable: true
+    - id: 3a9c32ca
+      name: Instagram (domains)
+      color: '#20202c'
+      interface: awg0
+      enable: true
+      rules:
+        - id: 04b625c1
+          name: ""
+          type: namespace
+          rule: cdninstagram.com
+          enable: true
+        - id: 0c8371f1
+          name: ""
+          type: namespace
+          rule: ig.me
+          enable: true
+        - id: 0454a5fe
+          name: ""
+          type: namespace
+          rule: instagram.com
+          enable: true
+    - id: ace407a9
+      name: WhatsApp (domains)
+      color: '#20202c'
+      interface: awg0
+      enable: true
+      rules:
+        - id: 03cd6d64
+          name: ""
+          type: namespace
+          rule: wa.me
+          enable: true
+        - id: 3bc1e98d
+          name: ""
+          type: namespace
+          rule: whatsapp-plus.info
+          enable: true
+        - id: fae15d28
+          name: ""
+          type: namespace
+          rule: whatsapp-plus.me
+          enable: true
+        - id: a473ee30
+          name: ""
+          type: namespace
+          rule: whatsapp-plus.net
+          enable: true
+        - id: 37cabf1a
+          name: ""
+          type: namespace
+          rule: whatsapp.biz
+          enable: true
+        - id: 3493f4cc
+          name: ""
+          type: namespace
+          rule: whatsapp.cc
+          enable: true
+        - id: 371afcce
+          name: ""
+          type: namespace
+          rule: whatsapp.com
+          enable: true
+        - id: 569c8712
+          name: ""
+          type: namespace
+          rule: whatsapp.info
+          enable: true
+        - id: 0946a460
+          name: ""
+          type: namespace
+          rule: whatsapp.net
+          enable: true
+        - id: 05ef0083
+          name: ""
+          type: namespace
+          rule: whatsapp.org
+          enable: true
+        - id: db294596
+          name: ""
+          type: namespace
+          rule: whatsapp.tv
+          enable: true
+        - id: 6d6fb580
+          name: ""
+          type: namespace
+          rule: whatsappbrand.com
+          enable: true
+        - id: 544c14ed
+          name: ""
+          type: namespace
+          rule: wl.co
+          enable: true
     - id: 7bd1ca28
       name: X.com
       color: '#20202c'
@@ -3074,6 +8109,37 @@ groups:
           type: subnet
           rule: 209.237.192.0/19
           enable: true
+    - id: 1b503f06
+      name: X.com (domains)
+      color: '#20202c'
+      interface: awg0
+      enable: true
+      rules:
+        - id: a94900b0
+          name: ""
+          type: namespace
+          rule: t.co
+          enable: true
+        - id: 9a416a34
+          name: ""
+          type: namespace
+          rule: tweetdeck.com
+          enable: true
+        - id: b6f18052
+          name: ""
+          type: namespace
+          rule: twimg.com
+          enable: true
+        - id: 09bd6600
+          name: ""
+          type: namespace
+          rule: twitter.com
+          enable: true
+        - id: 7c6dc271
+          name: ""
+          type: namespace
+          rule: x.com
+          enable: true
     - id: fb7b06cd
       name: Telegram
       color: '#20202c'
@@ -3124,6 +8190,112 @@ groups:
           name: ""
           type: subnet
           rule: 185.76.151.0/24
+          enable: true
+    - id: d0db1cdc
+      name: Telegram (domains)
+      color: '#20202c'
+      interface: awg0
+      enable: true
+      rules:
+        - id: 46ef0872
+          name: ""
+          type: namespace
+          rule: cdn-telegram.org
+          enable: true
+        - id: 1a1b1133
+          name: ""
+          type: namespace
+          rule: comments.app
+          enable: true
+        - id: 094f90c7
+          name: ""
+          type: namespace
+          rule: contest.com
+          enable: true
+        - id: 2df78da1
+          name: ""
+          type: namespace
+          rule: fragment.com
+          enable: true
+        - id: 3d80cb50
+          name: ""
+          type: namespace
+          rule: graph.org
+          enable: true
+        - id: 648f1287
+          name: ""
+          type: namespace
+          rule: quiz.directory
+          enable: true
+        - id: 3dd0238f
+          name: ""
+          type: namespace
+          rule: t.me
+          enable: true
+        - id: "84532427"
+          name: ""
+          type: namespace
+          rule: tdesktop.com
+          enable: true
+        - id: 7194b21b
+          name: ""
+          type: namespace
+          rule: telega.one
+          enable: true
+        - id: 2938f739
+          name: ""
+          type: namespace
+          rule: telegra.ph
+          enable: true
+        - id: d0e3a8b1
+          name: ""
+          type: namespace
+          rule: telegram-cdn.org
+          enable: true
+        - id: d278139f
+          name: ""
+          type: namespace
+          rule: telegram.com
+          enable: true
+        - id: cd3da595
+          name: ""
+          type: namespace
+          rule: telegram.dog
+          enable: true
+        - id: e9e0f2bd
+          name: ""
+          type: namespace
+          rule: telegram.me
+          enable: true
+        - id: 4e5f91ce
+          name: ""
+          type: namespace
+          rule: telegram.org
+          enable: true
+        - id: 78e160f3
+          name: ""
+          type: namespace
+          rule: telegram.space
+          enable: true
+        - id: 864359f7
+          name: ""
+          type: namespace
+          rule: telesco.pe
+          enable: true
+        - id: 8d247d2e
+          name: ""
+          type: namespace
+          rule: tg.dev
+          enable: true
+        - id: 5e23ae5c
+          name: ""
+          type: namespace
+          rule: tx.me
+          enable: true
+        - id: 21c4318a
+          name: ""
+          type: namespace
+          rule: usercontent.dev
           enable: true
     - id: 5a141ac3
       name: Viber
@@ -3551,6 +8723,42 @@ groups:
           type: subnet
           rule: 99.80.0.0/15
           enable: true
+    - id: "62883495"
+      name: Viber (domains)
+      color: '#20202c'
+      interface: awg0
+      enable: true
+      rules:
+        - id: a7b28a2c
+          name: ""
+          type: namespace
+          rule: rakuten.com
+          enable: true
+        - id: ff3531e1
+          name: ""
+          type: namespace
+          rule: vbcdn.com
+          enable: true
+        - id: b84dd13d
+          name: ""
+          type: namespace
+          rule: vbcdn.net
+          enable: true
+        - id: bf83cc38
+          name: ""
+          type: namespace
+          rule: viber.co
+          enable: true
+        - id: 59b7ffbe
+          name: ""
+          type: namespace
+          rule: viber.com
+          enable: true
+        - id: a9f1edc0
+          name: ""
+          type: namespace
+          rule: viber.me
+          enable: true
     - id: 67ffaf8e
       name: Signal
       color: '#20202c'
@@ -3766,6 +8974,47 @@ groups:
           name: ""
           type: subnet
           rule: 98.80.0.0/12
+          enable: true
+    - id: 7087f0b9
+      name: Signal (domains)
+      color: '#20202c'
+      interface: awg0
+      enable: true
+      rules:
+        - id: b41e4f8d
+          name: ""
+          type: namespace
+          rule: signal.art
+          enable: true
+        - id: 15d75dbc
+          name: ""
+          type: namespace
+          rule: signal.group
+          enable: true
+        - id: 4c4549b3
+          name: ""
+          type: namespace
+          rule: signal.link
+          enable: true
+        - id: dcdf37a1
+          name: ""
+          type: namespace
+          rule: signal.me
+          enable: true
+        - id: 0d46f965
+          name: ""
+          type: namespace
+          rule: signal.org
+          enable: true
+        - id: e82d8a23
+          name: ""
+          type: namespace
+          rule: signal.tube
+          enable: true
+        - id: 1235bf2c
+          name: ""
+          type: namespace
+          rule: whispersystems.org
           enable: true
     - id: 314dc61e
       name: Snapchat
@@ -4068,6 +9317,102 @@ groups:
           type: subnet
           rule: 98.80.0.0/12
           enable: true
+    - id: 6b196fa9
+      name: Snapchat (domains)
+      color: '#20202c'
+      interface: awg0
+      enable: true
+      rules:
+        - id: 5a58f6a1
+          name: ""
+          type: namespace
+          rule: addlive.io
+          enable: true
+        - id: 1fa20c59
+          name: ""
+          type: namespace
+          rule: feelinsonice.com
+          enable: true
+        - id: c78f5b2d
+          name: ""
+          type: namespace
+          rule: google.com
+          enable: true
+        - id: 5035e0c3
+          name: ""
+          type: namespace
+          rule: sc-cdn.net
+          enable: true
+        - id: 7bf59f7a
+          name: ""
+          type: namespace
+          rule: sc-corp.net
+          enable: true
+        - id: c5d10774
+          name: ""
+          type: namespace
+          rule: sc-gw.com
+          enable: true
+        - id: c726a179
+          name: ""
+          type: namespace
+          rule: sc-jpl.com
+          enable: true
+        - id: 1a95bac9
+          name: ""
+          type: namespace
+          rule: sc-prod.net
+          enable: true
+        - id: "85382870"
+          name: ""
+          type: namespace
+          rule: sc-static.net
+          enable: true
+        - id: de0d3cbd
+          name: ""
+          type: namespace
+          rule: snap-dev.net
+          enable: true
+        - id: a37dbad1
+          name: ""
+          type: namespace
+          rule: snap.com
+          enable: true
+        - id: 65c3ad0d
+          name: ""
+          type: namespace
+          rule: snapads.com
+          enable: true
+        - id: 29979ea8
+          name: ""
+          type: namespace
+          rule: snapchat-com
+          enable: true
+        - id: f234035f
+          name: ""
+          type: namespace
+          rule: snapchat.com
+          enable: true
+        - id: 2a5c1def
+          name: ""
+          type: namespace
+          rule: snapkit.com
+          enable: true
+        - id: 1d0d9c54
+          name: ""
+          type: namespace
+          rule: snapmap.com
+          enable: true
+        - id: faf7f5a6
+          name: ""
+          type: namespace
+          rule: snapmap.org
+          enable: true
+        - id: 4ee584a3
+          name: ""
+          type: namespace
+          rule: snapmaps.com
+          enable: true
     - id: e694b19a
       name: Discord
       color: '#20202c'
@@ -4369,12 +9714,238 @@ groups:
           type: subnet
           rule: 94.229.72.112/28
           enable: true
+    - id: 64d0267f
+      name: Discord (domains)
+      color: '#20202c'
+      interface: awg0
+      enable: true
+      rules:
+        - id: 88342ad5
+          name: ""
+          type: namespace
+          rule: dis.gd
+          enable: true
+        - id: 885784ad
+          name: ""
+          type: namespace
+          rule: disboard.org
+          enable: true
+        - id: 7ca476f6
+          name: ""
+          type: namespace
+          rule: discord-activities.com
+          enable: true
+        - id: e21b66c2
+          name: ""
+          type: namespace
+          rule: discord.center
+          enable: true
+        - id: f5e29888
+          name: ""
+          type: namespace
+          rule: discord.co
+          enable: true
+        - id: "02093835"
+          name: ""
+          type: namespace
+          rule: discord.com
+          enable: true
+        - id: 40c81dbd
+          name: ""
+          type: namespace
+          rule: discord.design
+          enable: true
+        - id: e756d410
+          name: ""
+          type: namespace
+          rule: discord.dev
+          enable: true
+        - id: e3abd6e7
+          name: ""
+          type: namespace
+          rule: discord.gg
+          enable: true
+        - id: b41bb344
+          name: ""
+          type: namespace
+          rule: discord.gift
+          enable: true
+        - id: 3dfa452f
+          name: ""
+          type: namespace
+          rule: discord.gifts
+          enable: true
+        - id: 1d5aea10
+          name: ""
+          type: namespace
+          rule: discord.me
+          enable: true
+        - id: 926f8f02
+          name: ""
+          type: namespace
+          rule: discord.media
+          enable: true
+        - id: e8ed42e5
+          name: ""
+          type: namespace
+          rule: discord.new
+          enable: true
+        - id: 21af64b7
+          name: ""
+          type: namespace
+          rule: discord.st
+          enable: true
+        - id: 9de43568
+          name: ""
+          type: namespace
+          rule: discord.store
+          enable: true
+        - id: 99af1b85
+          name: ""
+          type: namespace
+          rule: discord.tools
+          enable: true
+        - id: e89cd106
+          name: ""
+          type: namespace
+          rule: discordInvites.net
+          enable: true
+        - id: cadbbbdf
+          name: ""
+          type: namespace
+          rule: discordactivities.com
+          enable: true
+        - id: f14906f2
+          name: ""
+          type: namespace
+          rule: discordapp.com
+          enable: true
+        - id: 94f60d1a
+          name: ""
+          type: namespace
+          rule: discordapp.io
+          enable: true
+        - id: 53ede75c
+          name: ""
+          type: namespace
+          rule: discordapp.net
+          enable: true
+        - id: db47953f
+          name: ""
+          type: namespace
+          rule: discordbee.com
+          enable: true
+        - id: de4aaedf
+          name: ""
+          type: namespace
+          rule: discordbotlist.com
+          enable: true
+        - id: d6fc8786
+          name: ""
+          type: namespace
+          rule: discordcdn.com
+          enable: true
+        - id: eb322f51
+          name: ""
+          type: namespace
+          rule: discordexpert.com
+          enable: true
+        - id: 08a1510b
+          name: ""
+          type: namespace
+          rule: discordhome.com
+          enable: true
+        - id: 92e841d9
+          name: ""
+          type: namespace
+          rule: discordhub.com
+          enable: true
+        - id: 4c9e1db7
+          name: ""
+          type: namespace
+          rule: discordlist.me
+          enable: true
+        - id: 8c004d9c
+          name: ""
+          type: namespace
+          rule: discordlist.space
+          enable: true
+        - id: 960f692a
+          name: ""
+          type: namespace
+          rule: discordmerch.com
+          enable: true
+        - id: 026c011a
+          name: ""
+          type: namespace
+          rule: discordpartygames.com
+          enable: true
+        - id: 5f779662
+          name: ""
+          type: namespace
+          rule: discords.com
+          enable: true
+        - id: c0741283
+          name: ""
+          type: namespace
+          rule: discordsays.com
+          enable: true
+        - id: 962a49ec
+          name: ""
+          type: namespace
+          rule: discordservers.com
+          enable: true
+        - id: 0159754d
+          name: ""
+          type: namespace
+          rule: discordstatus.com
+          enable: true
+        - id: c7d6c156
+          name: ""
+          type: namespace
+          rule: discordtop.com
+          enable: true
+        - id: daabc287
+          name: ""
+          type: namespace
+          rule: disforge.com
+          enable: true
+        - id: 776c79e6
+          name: ""
+          type: namespace
+          rule: dyno.gg
+          enable: true
+        - id: 55de6516
+          name: ""
+          type: namespace
+          rule: findAdiscord.com
+          enable: true
+        - id: 929fbd62
+          name: ""
+          type: namespace
+          rule: googleapis.com
+          enable: true
+        - id: 31b7a031
+          name: ""
+          type: namespace
+          rule: mee6.xyz
+          enable: true
+        - id: 5b7ae552
+          name: ""
+          type: namespace
+          rule: top.gg
+          enable: true
     - id: a67ad6b6
       name: Zello
       color: '#20202c'
       interface: awg0
       enable: true
       rules:
+        - id: "64173128"
+          name: ""
+          type: namespace
+          rule: zello.com
+          enable: true
         - id: b97b12d8
           name: ""
           type: subnet
@@ -5465,6 +11036,427 @@ groups:
           name: ""
           type: subnet
           rule: 99.86.0.0/16
+          enable: true
+    - id: 9f74c89a
+      name: Roblox (domains)
+      color: '#20202c'
+      interface: awg0
+      enable: true
+      rules:
+        - id: 1175d3ff
+          name: ""
+          type: namespace
+          rule: arkoselabs.co
+          enable: true
+        - id: ad872cef
+          name: ""
+          type: namespace
+          rule: arkoselabs.com
+          enable: true
+        - id: f0472ef6
+          name: ""
+          type: namespace
+          rule: blox.com
+          enable: true
+        - id: 16495e3b
+          name: ""
+          type: namespace
+          rule: di-rbx.com
+          enable: true
+        - id: 3e8a4a79
+          name: ""
+          type: namespace
+          rule: goblocks.com
+          enable: true
+        - id: 68aa7780
+          name: ""
+          type: namespace
+          rule: goblox.com
+          enable: true
+        - id: f63cd021
+          name: ""
+          type: namespace
+          rule: gooblox.com
+          enable: true
+        - id: 756a0c32
+          name: ""
+          type: namespace
+          rule: humancoexperience.com
+          enable: true
+        - id: 07b64436
+          name: ""
+          type: namespace
+          rule: llnwi.net
+          enable: true
+        - id: 270b5c3b
+          name: ""
+          type: namespace
+          rule: luau-lang.org
+          enable: true
+        - id: 7db34aa4
+          name: ""
+          type: namespace
+          rule: luau.org
+          enable: true
+        - id: "51963713"
+          name: ""
+          type: namespace
+          rule: luobu.biz
+          enable: true
+        - id: 79d25569
+          name: ""
+          type: namespace
+          rule: luobu.info
+          enable: true
+        - id: 9329aa16
+          name: ""
+          type: namespace
+          rule: luobu.io
+          enable: true
+        - id: a1cce60e
+          name: ""
+          type: namespace
+          rule: luobu.org
+          enable: true
+        - id: cbb20b6d
+          name: ""
+          type: namespace
+          rule: rblx.co
+          enable: true
+        - id: ff8ae75e
+          name: ""
+          type: namespace
+          rule: rblx.com
+          enable: true
+        - id: d471d64f
+          name: ""
+          type: namespace
+          rule: rblx.org
+          enable: true
+        - id: 70a3c185
+          name: ""
+          type: namespace
+          rule: rbx-stage.com
+          enable: true
+        - id: 74cc0900
+          name: ""
+          type: namespace
+          rule: rbx.cn
+          enable: true
+        - id: aecc38e7
+          name: ""
+          type: namespace
+          rule: rbx.com
+          enable: true
+        - id: 4845cac3
+          name: ""
+          type: namespace
+          rule: rbx.dev
+          enable: true
+        - id: d3753c4e
+          name: ""
+          type: namespace
+          rule: rbxcdn-cn.com
+          enable: true
+        - id: d9dfa7db
+          name: ""
+          type: namespace
+          rule: rbxcdn.com
+          enable: true
+        - id: 811509f5
+          name: ""
+          type: namespace
+          rule: rbxcdn.net
+          enable: true
+        - id: 7b2f5cbf
+          name: ""
+          type: namespace
+          rule: rbxes.com
+          enable: true
+        - id: 56a7edcc
+          name: ""
+          type: namespace
+          rule: rbxgame.com
+          enable: true
+        - id: 47190eb1
+          name: ""
+          type: namespace
+          rule: rbxinfra.com
+          enable: true
+        - id: 2bd6674d
+          name: ""
+          type: namespace
+          rule: rbxinfra.net
+          enable: true
+        - id: 341fd5e1
+          name: ""
+          type: namespace
+          rule: rbxlabs.com
+          enable: true
+        - id: e15fb65c
+          name: ""
+          type: namespace
+          rule: rbxtrk.com
+          enable: true
+        - id: d9d962e7
+          name: ""
+          type: namespace
+          rule: ro-blox.com
+          enable: true
+        - id: 14202b28
+          name: ""
+          type: namespace
+          rule: roadblocks.com
+          enable: true
+        - id: 2bf80ab2
+          name: ""
+          type: namespace
+          rule: roblocks.com
+          enable: true
+        - id: 18e475a2
+          name: ""
+          type: namespace
+          rule: roblox.app
+          enable: true
+        - id: 5b6e6399
+          name: ""
+          type: namespace
+          rule: roblox.ca
+          enable: true
+        - id: ea494a0b
+          name: ""
+          type: namespace
+          rule: roblox.cc
+          enable: true
+        - id: 929b3814
+          name: ""
+          type: namespace
+          rule: roblox.cl
+          enable: true
+        - id: dc135434
+          name: ""
+          type: namespace
+          rule: roblox.co.jp
+          enable: true
+        - id: 1b37f63d
+          name: ""
+          type: namespace
+          rule: roblox.co.uk
+          enable: true
+        - id: c5966148
+          name: ""
+          type: namespace
+          rule: roblox.com
+          enable: true
+        - id: 9825aaaa
+          name: ""
+          type: namespace
+          rule: roblox.de
+          enable: true
+        - id: 8e693e99
+          name: ""
+          type: namespace
+          rule: roblox.dev
+          enable: true
+        - id: 1aa23058
+          name: ""
+          type: namespace
+          rule: roblox.dk
+          enable: true
+        - id: 4c9a15ca
+          name: ""
+          type: namespace
+          rule: roblox.eu
+          enable: true
+        - id: b3c87b57
+          name: ""
+          type: namespace
+          rule: roblox.fr
+          enable: true
+        - id: 9fc3f9c7
+          name: ""
+          type: namespace
+          rule: roblox.hu
+          enable: true
+        - id: 50a3e0de
+          name: ""
+          type: namespace
+          rule: roblox.in
+          enable: true
+        - id: 5a13ec45
+          name: ""
+          type: namespace
+          rule: roblox.it
+          enable: true
+        - id: eb21f2c9
+          name: ""
+          type: namespace
+          rule: roblox.jp
+          enable: true
+        - id: 57730deb
+          name: ""
+          type: namespace
+          rule: roblox.kr
+          enable: true
+        - id: 8f3b575e
+          name: ""
+          type: namespace
+          rule: roblox.lat
+          enable: true
+        - id: 070ccf45
+          name: ""
+          type: namespace
+          rule: roblox.mx
+          enable: true
+        - id: 3a098234
+          name: ""
+          type: namespace
+          rule: roblox.net
+          enable: true
+        - id: b961c676
+          name: ""
+          type: namespace
+          rule: roblox.org
+          enable: true
+        - id: 8605bd13
+          name: ""
+          type: namespace
+          rule: roblox.ph
+          enable: true
+        - id: 1daf689b
+          name: ""
+          type: namespace
+          rule: roblox.pt
+          enable: true
+        - id: ad84e686
+          name: ""
+          type: namespace
+          rule: roblox.sk
+          enable: true
+        - id: 22670a76
+          name: ""
+          type: namespace
+          rule: roblox.tv
+          enable: true
+        - id: 844781f7
+          name: ""
+          type: namespace
+          rule: roblox.uk
+          enable: true
+        - id: 62fd2266
+          name: ""
+          type: namespace
+          rule: roblox.us
+          enable: true
+        - id: 805bcda4
+          name: ""
+          type: namespace
+          rule: roblox.vn
+          enable: true
+        - id: a1e04272
+          name: ""
+          type: namespace
+          rule: robloxads.com
+          enable: true
+        - id: e24530ad
+          name: ""
+          type: namespace
+          rule: robloxcdn.com
+          enable: true
+        - id: 5f4a5bbd
+          name: ""
+          type: namespace
+          rule: robloxcorp.com
+          enable: true
+        - id: 3057b14f
+          name: ""
+          type: namespace
+          rule: robloxcorporation.com
+          enable: true
+        - id: 78b967f3
+          name: ""
+          type: namespace
+          rule: robloxdev.com
+          enable: true
+        - id: 67d184d7
+          name: ""
+          type: namespace
+          rule: robloxengine.com
+          enable: true
+        - id: cdcdb7af
+          name: ""
+          type: namespace
+          rule: robloxgame.com
+          enable: true
+        - id: 126376dd
+          name: ""
+          type: namespace
+          rule: robloxlabs.cn
+          enable: true
+        - id: ce16ea56
+          name: ""
+          type: namespace
+          rule: robloxlabs.com
+          enable: true
+        - id: 53a6af70
+          name: ""
+          type: namespace
+          rule: robloxmail.com
+          enable: true
+        - id: 5ea299f4
+          name: ""
+          type: namespace
+          rule: robloxmedia.com
+          enable: true
+        - id: d2c4f786
+          name: ""
+          type: namespace
+          rule: robloxrcs.com
+          enable: true
+        - id: 5558c884
+          name: ""
+          type: namespace
+          rule: robloxtechtalks.com
+          enable: true
+        - id: 66c35160
+          name: ""
+          type: namespace
+          rule: robloxtoy.com
+          enable: true
+        - id: 223dea33
+          name: ""
+          type: namespace
+          rule: robloxuniverse.com
+          enable: true
+        - id: 76b8da00
+          name: ""
+          type: namespace
+          rule: robux.com
+          enable: true
+        - id: b69ead07
+          name: ""
+          type: namespace
+          rule: rowblocks.com
+          enable: true
+        - id: 538bcbbc
+          name: ""
+          type: namespace
+          rule: rowblox.com
+          enable: true
+        - id: 175ca4fa
+          name: ""
+          type: namespace
+          rule: tryroblox.com
+          enable: true
+        - id: 29637ffc
+          name: ""
+          type: namespace
+          rule: youmakethegame.com
+          enable: true
+        - id: 7ddbc756
+          name: ""
+          type: namespace
+          rule: youmakethegames.com
           enable: true
     - id: 10db9658
       name: Fastly
