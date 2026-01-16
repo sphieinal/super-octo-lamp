@@ -6,12 +6,12 @@
             "settings": {
                 "vnext": [
                     {
-                        "address": "188.92.28.204",
-                        "port": 34045,
+                        "address": "45.144.48.192",
+                        "port": 8443,
                         "users": [
                             {
-                                "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
-                                "flow": "",
+                                "id": "787ae54e-40ad-4caf-899b-ad3a19ff1103",
+                                "flow": "xtls-rprx-vision",
                                 "encryption": "none",
                                 "level": 0
                             }
@@ -23,10 +23,10 @@
                 "network": "tcp",
                 "security": "reality",
                 "realitySettings": {
-                    "publicKey": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
-                    "fingerprint": "",
-                    "serverName": "visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me",
-                    "shortId": "e8ab71d0",
+                    "publicKey": "UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w",
+                    "fingerprint": "chrome",
+                    "serverName": "discordapp.com",
+                    "shortId": "50c860b05993532d",
                     "spiderX": "/"
                 }
             }
