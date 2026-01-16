@@ -6,11 +6,11 @@
             "settings": {
                 "vnext": [
                     {
-                        "address": "104.16.223.254",
-                        "port": 443,
+                        "address": "188.92.28.204",
+                        "port": 34045,
                         "users": [
                             {
-                                "id": "d0298536-d670-4045-bbb1-ddd5ea68683e",
+                                "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
                                 "flow": "",
                                 "encryption": "none",
                                 "level": 0
@@ -20,20 +20,14 @@
                 ]
             },
             "streamSettings": {
-                "network": "ws",
-                "security": "tls",
-                "tlsSettings": {
-                    "alpn": [],
-                    "fingerprint": "randomized",
-                    "serverName": "a.azadnet003.ddns-ip.net",
-                    "allowInsecure": true,
-                    "show": false
-                },
-                "wsSettings": {
-                    "path": "/?ed=2560&PROT_TYPE=vless",
-                    "headers": {
-                        "Host": "a.azadnet003.ddns-ip.net"
-                    }
+                "network": "tcp",
+                "security": "reality",
+                "realitySettings": {
+                    "publicKey": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
+                    "fingerprint": "",
+                    "serverName": "visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me",
+                    "shortId": "e8ab71d0",
+                    "spiderX": "/"
                 }
             }
         },
