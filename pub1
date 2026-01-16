@@ -6,12 +6,12 @@
             "settings": {
                 "vnext": [
                     {
-                        "address": "midorinote.ru",
-                        "port": 8443,
+                        "address": "104.16.223.254",
+                        "port": 443,
                         "users": [
                             {
-                                "id": "6d3d21ef-b24a-4932-8393-7efc90c3d89c",
-                                "flow": "xtls-rprx-vision",
+                                "id": "d0298536-d670-4045-bbb1-ddd5ea68683e",
+                                "flow": "",
                                 "encryption": "none",
                                 "level": 0
                             }
@@ -20,14 +20,20 @@
                 ]
             },
             "streamSettings": {
-                "network": "tcp",
-                "security": "reality",
-                "realitySettings": {
-                    "publicKey": "Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0",
-                    "fingerprint": "random",
-                    "serverName": "m.vk.com",
-                    "shortId": "808e2d36726ee97e",
-                    "spiderX": "/"
+                "network": "ws",
+                "security": "tls",
+                "tlsSettings": {
+                    "alpn": [],
+                    "fingerprint": "randomized",
+                    "serverName": "a.azadnet003.ddns-ip.net",
+                    "allowInsecure": true,
+                    "show": false
+                },
+                "wsSettings": {
+                    "path": "/?ed=2560&PROT_TYPE=vless",
+                    "headers": {
+                        "Host": "a.azadnet003.ddns-ip.net"
+                    }
                 }
             }
         },
