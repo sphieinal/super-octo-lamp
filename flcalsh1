@@ -13,9 +13,9 @@ proxies:
   remote-dns-resolve: true
   dns: [1.1.1.1, 1.0.0.1, 2606:4700:4700::1111, 2606:4700:4700::1001]
   amnezia-wg-option:
-   jc: 120
-   jmin: 23
-   jmax: 911
+   jc: 4
+   jmin: 40
+   jmax: 70
    s1: 0
    s2: 0
    h1: 1
