@@ -6,11 +6,11 @@
             "settings": {
                 "vnext": [
                     {
-                        "address": "64.188.97.71",
-                        "port": 34045,
+                        "address": "25.25.25.0",
+                        "port": 8880,
                         "users": [
                             {
-                                "id": "d8dd94fd-540e-461d-b5d4-acebef02c22a",
+                                "id": "8e997404-cb62-4fa1-a8c9-c77a32f10153",
                                 "flow": "",
                                 "encryption": "none",
                                 "level": 0
@@ -20,14 +20,13 @@
                 ]
             },
             "streamSettings": {
-                "network": "tcp",
-                "security": "reality",
-                "realitySettings": {
-                    "publicKey": "cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA",
-                    "fingerprint": "",
-                    "serverName": "visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me",
-                    "shortId": "e8ab71d0",
-                    "spiderX": "/"
+                "network": "ws",
+                "security": "",
+                "wsSettings": {
+                    "path": "/",
+                    "headers": {
+                        "Host": "rightel.IRANCEELL.mci.it.www.speedtest.net.zula.ir.focusontrade.ir"
+                    }
                 }
             }
         },
