@@ -9058,182 +9058,182 @@ groups:
           rule: 128.245.0.0/16
           enable: true
         - id: 8aba8a9f
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 100.24.0.0/13
           enable: true
         - id: f93f55df
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 100.48.0.0/12
           enable: true
         - id: 698a2b52
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 104.154.0.0/15
           enable: true
         - id: 05da3fe1
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 107.20.0.0/14
           enable: true
         - id: 88d1b93a
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 108.128.0.0/13
           enable: true
         - id: 805f93cf
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 108.136.0.0/14
           enable: true
         - id: ed20501c
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 108.156.0.0/14
           enable: true
         - id: c717bd71
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 108.177.0.0/17
           enable: true
         - id: 9d94cd3d
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 13.208.0.0/12
           enable: true
         - id: b644f8e2
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 13.32.0.0/12
           enable: true
         - id: e43e11f7
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 13.48.0.0/13
           enable: true
         - id: b191c518
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 13.56.0.0/14
           enable: true
         - id: 36aa685d
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 184.50.0.0/15
           enable: true
         - id: 7b0a097f
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 184.72.0.0/15
           enable: true
         - id: 21b441fb
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 184.84.0.0/14
           enable: true
         - id: d6aed156
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 3.0.0.0/9
           enable: true
         - id: 807397a4
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 3.128.0.0/9
           enable: true
         - id: 7a71499b
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 35.160.0.0/12
           enable: true
         - id: fd999256
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 35.184.0.0/13
           enable: true
         - id: 7d89dc14
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 35.208.0.0/12
           enable: true
         - id: 6435adaf
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 44.192.0.0/10
           enable: true
         - id: f7279665
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 50.16.0.0/14
           enable: true
         - id: d677d7be
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 50.97.0.0/16
           enable: true
         - id: 310c5b11
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 52.0.0.0/10
           enable: true
         - id: 22e3eb11
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 52.64.0.0/12
           enable: true
         - id: 2043a59f
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 52.192.0.0/12
           enable: true
         - id: 98a228a6
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 52.222.0.0/16
           enable: true
         - id: 8e585f08
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 54.64.0.0/11
           enable: true
         - id: 685e1268
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 54.144.0.0/12
           enable: true
         - id: e3e3d1e3
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 54.160.0.0/11
           enable: true
         - id: 8c6809da
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 54.192.0.0/12
           enable: true
         - id: 56a0866d
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 54.208.0.0/13
           enable: true
         - id: 92e9986c
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 54.224.0.0/11
           enable: true
         - id: 23b573f4
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 65.8.0.0/14
           enable: true
         - id: 8b9a8bcc
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 75.2.0.0/17
           enable: true
         - id: f69ab4bf
-          name: Amazon
+          name: AWS
           type: subnet
           rule: 98.80.0.0/12
           enable: true
@@ -11534,7 +11534,7 @@ groups:
           rule: 199.60.103.0/24
           enable: true
     - id: 86765fa0
-      name: Speedtest
+      name: Speedtest (domains)
       color: '#20202c'
       interface: awg0
       enable: true
