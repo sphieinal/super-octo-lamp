@@ -8197,41 +8197,6 @@ groups:
       interface: awg0
       enable: true
       rules:
-        - id: 7970c076
-          name: ""
-          type: subnet
-          rule: 8.0.0.0/13            | AS15169    | Google LLC
-          enable: true
-        - id: ae071b59
-          name: ""
-          type: subnet
-          rule: 8.32.0.0/11           | AS15169    | Google LLC
-          enable: true
-        - id: 0c31c05d
-          name: ""
-          type: subnet
-          rule: 34.64.0.0/10          | AS15169    | Google Cloud
-          enable: true
-        - id: 4f549043
-          name: ""
-          type: subnet
-          rule: 192.178.0.0/15        | AS15169    | Google LLC
-          enable: true
-        - id: 7713cc76
-          name: ""
-          type: subnet
-          rule: 194.90.0.0/16         | AS15169    | Google LLC
-          enable: true
-        - id: b126f49c
-          name: ""
-          type: subnet
-          rule: 199.59.240.0/22       | AS15169    | Google LLC
-          enable: true
-        - id: 4895ec01
-          name: ""
-          type: subnet
-          rule: 204.141.0.0/16
-          enable: true
         - id: 46ef0872
           name: ""
           type: namespace
@@ -8336,7 +8301,7 @@ groups:
       name: Viber (CDN)
       color: '#20202c'
       interface: awg0
-      enable: true
+      enable: false
       rules:
         - id: 79cb0d00
           name: Google LLC
@@ -8788,7 +8753,7 @@ groups:
       name: Signal (CDN)
       color: '#20202c'
       interface: awg0
-      enable: true
+      enable: false
       rules:
         - id: ad2241d0
           name: Google LLC
@@ -9045,7 +9010,7 @@ groups:
       name: Snapchat (CDN)
       color: '#20202c'
       interface: awg0
-      enable: true
+      enable: false
       rules:
         - id: 86ff2722
           name: Google LLC
@@ -9447,7 +9412,7 @@ groups:
       name: Discord (CDN)
       color: '#20202c'
       interface: awg0
-      enable: true
+      enable: false
       rules:
         - id: ef258012
           name: Google LLC
@@ -10039,7 +10004,7 @@ groups:
       name: Zello (CDN)
       color: '#20202c'
       interface: awg0
-      enable: true
+      enable: false
       rules:
         - id: e5593454
           name: ""
@@ -10245,7 +10210,7 @@ groups:
       name: Roblox (CDN)
       color: '#20202c'
       interface: awg0
-      enable: true
+      enable: false
       rules:
         - id: 8f799bbf
           name: Google LLC
