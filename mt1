@@ -11533,6 +11533,148 @@ groups:
           type: subnet
           rule: 199.60.103.0/24
           enable: true
+    - id: 86765fa0
+      name: Speedtest
+      color: '#20202c'
+      interface: awg0
+      enable: true
+      rules:
+        - id: 53ebef79
+          name: ""
+          type: namespace
+          rule: cdnst.net
+          enable: true
+        - id: 90cd76df
+          name: ""
+          type: namespace
+          rule: cellmaps.com
+          enable: true
+        - id: 4d751e8c
+          name: ""
+          type: namespace
+          rule: ekahau.cloud
+          enable: true
+        - id: 6a20e163
+          name: ""
+          type: namespace
+          rule: ekahau.com
+          enable: true
+        - id: bf6beede
+          name: ""
+          type: namespace
+          rule: ookla.com
+          enable: true
+        - id: c11cdaae
+          name: ""
+          type: namespace
+          rule: ooklaserver.net
+          enable: true
+        - id: ec9580ec
+          name: ""
+          type: namespace
+          rule: pingtest.net
+          enable: true
+        - id: aaffc234
+          name: ""
+          type: namespace
+          rule: speedtest.co
+          enable: true
+        - id: bde6087a
+          name: ""
+          type: namespace
+          rule: speedtest.net
+          enable: true
+        - id: 619685c0
+          name: ""
+          type: namespace
+          rule: speedtestcustom.com
+          enable: true
+        - id: ce80cde5
+          name: ""
+          type: namespace
+          rule: webtest.net
+          enable: true
+    - id: ba3970fd
+      name: Cloudflare
+      color: '#20202c'
+      interface: awg0
+      enable: true
+      rules:
+        - id: 55cdf088
+          name: ""
+          type: subnet
+          rule: 173.245.48.0/20
+          enable: true
+        - id: 60ec8a62
+          name: ""
+          type: subnet
+          rule: 103.21.244.0/22
+          enable: true
+        - id: 0877a950
+          name: ""
+          type: subnet
+          rule: 103.22.200.0/22
+          enable: true
+        - id: 60d3dcba
+          name: ""
+          type: subnet
+          rule: 103.31.4.0/22
+          enable: true
+        - id: 5a4d60ac
+          name: ""
+          type: subnet
+          rule: 141.101.64.0/18
+          enable: true
+        - id: 3be587a5
+          name: ""
+          type: subnet
+          rule: 108.162.192.0/18
+          enable: true
+        - id: 185fadab
+          name: ""
+          type: subnet
+          rule: 190.93.240.0/20
+          enable: true
+        - id: fc0ee4d8
+          name: ""
+          type: subnet
+          rule: 188.114.96.0/20
+          enable: true
+        - id: c9320947
+          name: ""
+          type: subnet
+          rule: 197.234.240.0/22
+          enable: true
+        - id: 4202a8ac
+          name: ""
+          type: subnet
+          rule: 198.41.128.0/17
+          enable: true
+        - id: c9eafa09
+          name: ""
+          type: subnet
+          rule: 162.158.0.0/15
+          enable: true
+        - id: ef98d773
+          name: ""
+          type: subnet
+          rule: 104.16.0.0/13
+          enable: true
+        - id: c79dc141
+          name: ""
+          type: subnet
+          rule: 104.24.0.0/14
+          enable: true
+        - id: af83f277
+          name: ""
+          type: subnet
+          rule: 172.64.0.0/13
+          enable: true
+        - id: 429ab7c7
+          name: ""
+          type: subnet
+          rule: 131.0.72.0/22
+          enable: true
     - id: 10db9658
       name: Fastly
       color: '#20202c'
@@ -11633,87 +11775,6 @@ groups:
           name: ""
           type: subnet
           rule: 199.232.0.0/16
-          enable: true
-    - id: ba3970fd
-      name: Cloudflare
-      color: '#20202c'
-      interface: awg0
-      enable: false
-      rules:
-        - id: 55cdf088
-          name: ""
-          type: subnet
-          rule: 173.245.48.0/20
-          enable: true
-        - id: 60ec8a62
-          name: ""
-          type: subnet
-          rule: 103.21.244.0/22
-          enable: true
-        - id: 0877a950
-          name: ""
-          type: subnet
-          rule: 103.22.200.0/22
-          enable: true
-        - id: 60d3dcba
-          name: ""
-          type: subnet
-          rule: 103.31.4.0/22
-          enable: true
-        - id: 5a4d60ac
-          name: ""
-          type: subnet
-          rule: 141.101.64.0/18
-          enable: true
-        - id: 3be587a5
-          name: ""
-          type: subnet
-          rule: 108.162.192.0/18
-          enable: true
-        - id: 185fadab
-          name: ""
-          type: subnet
-          rule: 190.93.240.0/20
-          enable: true
-        - id: fc0ee4d8
-          name: ""
-          type: subnet
-          rule: 188.114.96.0/20
-          enable: true
-        - id: c9320947
-          name: ""
-          type: subnet
-          rule: 197.234.240.0/22
-          enable: true
-        - id: 4202a8ac
-          name: ""
-          type: subnet
-          rule: 198.41.128.0/17
-          enable: true
-        - id: c9eafa09
-          name: ""
-          type: subnet
-          rule: 162.158.0.0/15
-          enable: true
-        - id: ef98d773
-          name: ""
-          type: subnet
-          rule: 104.16.0.0/13
-          enable: true
-        - id: c79dc141
-          name: ""
-          type: subnet
-          rule: 104.24.0.0/14
-          enable: true
-        - id: af83f277
-          name: ""
-          type: subnet
-          rule: 172.64.0.0/13
-          enable: true
-        - id: 429ab7c7
-          name: ""
-          type: subnet
-          rule: 131.0.72.0/22
           enable: true
     - id: eb23299d
       name: AWS
